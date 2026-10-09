@@ -1,0 +1,32 @@
+# Runs the paper trader once an hour on GitHub's free runners.
+# Bot state (SQLite) lives on a separate `state` branch, overwritten each run so the repo stays small.
+name: paper-trader
+on:
+  schedule:
+    - cron: "7 * * * *"      # every hour at :07 UTC (GitHub may delay a few minutes; bot catches up)
+  workflow_dispatch: {}       # "Run workflow" button for manual runs
+concurrency:
+  group: paper-trader
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  trade:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Restore bot state
+        run: bash ci/state.sh restore
+      - name: Trade one cycle
+        run: python run_live.py --once
+      - name: Save bot state + report
+        if: always()
+        run: |
+          python report.py > state/REPORT.txt 2>&1 || true
+          bash ci/state.sh save
