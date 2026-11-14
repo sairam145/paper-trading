@@ -1,0 +1,9 @@
+Paper trading 2026-10-08 23:00 -> 2026-11-14 09:00 UTC (36.4 days) | BTC now $67,344
+           bot  equity_$  return_%  per_30d_$  worst_drop_%  closed_trades  win_rate  open_slices  exposure_$  halted
+all_metrics_5x  1,089.70      8.97      73.89         22.30             39      0.49            2   -1,834.28   False
+ trend_only_2x  1,045.04      4.50      37.10          1.40             13      0.62            2     -699.46   False
+all_metrics_2x  1,042.81      4.28      35.27          9.48             39      0.49            2     -697.96   False
+all_metrics_1x  1,022.59      2.26      18.61          4.84             39      0.49            2     -341.54   False
+ volume_vol_2x    983.42     -1.66     -13.66          6.39             50      0.52            1      334.27   False
+  dist_ma20_2x    973.29     -2.67     -22.00          6.09             19      0.37            2      646.71   False
+oscillators_2x    959.61     -4.04     -33.28         16.75             64      0.41            0        0.00   False
