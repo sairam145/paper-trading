@@ -1,0 +1,2000 @@
+2026-11-18 13:48:20,353    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-18 13:48:20,353    dist_ma20_2x     equity $   954.92  exposure $       +0  
+2026-11-18 13:48:20,392 hour 2026-11-18 12:00 UTC  BTC $64,010
+2026-11-18 13:48:20,392    all_metrics_1x   equity $ 1,047.68  exposure $     -174  no trade
+2026-11-18 13:48:20,392    all_metrics_2x   equity $ 1,094.38  exposure $     -363  no trade
+2026-11-18 13:48:20,392    all_metrics_5x   equity $ 1,227.44  exposure $   -1,009  no trade
+2026-11-18 13:48:20,392    trend_only_2x    equity $ 1,084.92  exposure $     -716  no trade
+2026-11-18 13:48:20,392    oscillators_2x   equity $   969.95  exposure $       +0  no trade
+2026-11-18 13:48:20,392    volume_vol_2x    equity $   973.18  exposure $       +0  no trade
+2026-11-18 13:48:20,392    dist_ma20_2x     equity $   954.92  exposure $       +0  no trade
+2026-11-18 21:49:21,029 paper trader started: 7 bots, BTC-USD
+2026-11-18 21:49:22,421 hour 2026-11-18 13:00 UTC  BTC $63,865
+2026-11-18 21:49:22,421    all_metrics_1x   equity $ 1,048.07  exposure $     -174  
+2026-11-18 21:49:22,421    all_metrics_2x   equity $ 1,095.19  exposure $     -363  
+2026-11-18 21:49:22,421    all_metrics_5x   equity $ 1,229.70  exposure $   -1,009  
+2026-11-18 21:49:22,421    trend_only_2x    equity $ 1,086.52  exposure $     -716  
+2026-11-18 21:49:22,421    oscillators_2x   equity $   969.95  exposure $       +0  
+2026-11-18 21:49:22,421    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-18 21:49:22,421    dist_ma20_2x     equity $   954.92  exposure $       +0  
+2026-11-18 21:49:22,425 hour 2026-11-18 14:00 UTC  BTC $63,603
+2026-11-18 21:49:22,425    all_metrics_1x   equity $ 1,048.78  exposure $     -174  
+2026-11-18 21:49:22,425    all_metrics_2x   equity $ 1,096.66  exposure $     -363  
+2026-11-18 21:49:22,425    all_metrics_5x   equity $ 1,233.79  exposure $   -1,009  
+2026-11-18 21:49:22,425    trend_only_2x    equity $ 1,089.43  exposure $     -716  
+2026-11-18 21:49:22,425    oscillators_2x   equity $   969.95  exposure $       +0  
+2026-11-18 21:49:22,425    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-18 21:49:22,425    dist_ma20_2x     equity $   954.92  exposure $       +0  
+2026-11-18 21:49:22,428 hour 2026-11-18 15:00 UTC  BTC $63,048
+2026-11-18 21:49:22,428    all_metrics_1x   equity $ 1,050.27  exposure $     -174  
+2026-11-18 21:49:22,429    all_metrics_2x   equity $ 1,099.78  exposure $     -363  
+2026-11-18 21:49:22,429    all_metrics_5x   equity $ 1,242.45  exposure $   -1,009  
+2026-11-18 21:49:22,429    trend_only_2x    equity $ 1,095.57  exposure $     -716  
+2026-11-18 21:49:22,429    oscillators_2x   equity $   969.95  exposure $       +0  
+2026-11-18 21:49:22,429    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-18 21:49:22,429    dist_ma20_2x     equity $   954.92  exposure $       +0  
+2026-11-18 21:49:22,477 hour 2026-11-18 16:00 UTC  BTC $62,690
+2026-11-18 21:49:22,477    all_metrics_1x   equity $ 1,051.20  exposure $     -349  OPEN SHORT
+2026-11-18 21:49:22,477    all_metrics_2x   equity $ 1,101.72  exposure $     -730  OPEN SHORT
+2026-11-18 21:49:22,478    all_metrics_5x   equity $ 1,247.84  exposure $   -2,049  OPEN SHORT
+2026-11-18 21:49:22,478    trend_only_2x    equity $ 1,099.47  exposure $   -1,083  OPEN SHORT
+2026-11-18 21:49:22,478    oscillators_2x   equity $   969.95  exposure $       +0  no trade
+2026-11-18 21:49:22,478    volume_vol_2x    equity $   973.18  exposure $       +0  no trade
+2026-11-18 21:49:22,478    dist_ma20_2x     equity $   954.86  exposure $     +318  OPEN LONG
+2026-11-18 21:49:22,481 hour 2026-11-18 17:00 UTC  BTC $63,037
+2026-11-18 21:49:22,481    all_metrics_1x   equity $ 1,049.30  exposure $     -349  
+2026-11-18 21:49:22,481    all_metrics_2x   equity $ 1,097.73  exposure $     -730  
+2026-11-18 21:49:22,481    all_metrics_5x   equity $ 1,236.65  exposure $   -2,049  
+2026-11-18 21:49:22,481    trend_only_2x    equity $ 1,093.58  exposure $   -1,083  
+2026-11-18 21:49:22,481    oscillators_2x   equity $   969.95  exposure $       +0  
+2026-11-18 21:49:22,481    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-18 21:49:22,481    dist_ma20_2x     equity $   956.63  exposure $     +318  
+2026-11-18 21:49:22,485 hour 2026-11-18 18:00 UTC  BTC $63,098
+2026-11-18 21:49:22,485    all_metrics_1x   equity $ 1,048.96  exposure $     -349  
+2026-11-18 21:49:22,485    all_metrics_2x   equity $ 1,097.03  exposure $     -730  
+2026-11-18 21:49:22,485    all_metrics_5x   equity $ 1,234.68  exposure $   -2,049  
+2026-11-18 21:49:22,486    trend_only_2x    equity $ 1,092.55  exposure $   -1,083  
+2026-11-18 21:49:22,486    oscillators_2x   equity $   969.95  exposure $       +0  
+2026-11-18 21:49:22,486    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-18 21:49:22,486    dist_ma20_2x     equity $   956.94  exposure $     +318  
+2026-11-18 21:49:22,489 hour 2026-11-18 19:00 UTC  BTC $62,664
+2026-11-18 21:49:22,489    all_metrics_1x   equity $ 1,051.35  exposure $     -349  
+2026-11-18 21:49:22,489    all_metrics_2x   equity $ 1,102.01  exposure $     -730  
+2026-11-18 21:49:22,489    all_metrics_5x   equity $ 1,248.67  exposure $   -2,049  
+2026-11-18 21:49:22,489    trend_only_2x    equity $ 1,099.90  exposure $   -1,083  
+2026-11-18 21:49:22,489    oscillators_2x   equity $   969.95  exposure $       +0  
+2026-11-18 21:49:22,489    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-18 21:49:22,489    dist_ma20_2x     equity $   954.73  exposure $     +318  
+2026-11-18 21:49:22,538 hour 2026-11-18 20:00 UTC  BTC $62,534
+2026-11-18 21:49:22,538    all_metrics_1x   equity $ 1,052.02  exposure $     -525  OPEN SHORT
+2026-11-18 21:49:22,538    all_metrics_2x   equity $ 1,103.43  exposure $   -1,098  OPEN SHORT
+2026-11-18 21:49:22,538    all_metrics_5x   equity $ 1,252.64  exposure $   -3,093  OPEN SHORT
+2026-11-18 21:49:22,538    trend_only_2x    equity $ 1,102.02  exposure $   -1,450  OPEN SHORT
+2026-11-18 21:49:22,538    oscillators_2x   equity $   969.89  exposure $     -323  OPEN SHORT
+2026-11-18 21:49:22,538    volume_vol_2x    equity $   973.18  exposure $       +0  no trade
+2026-11-18 21:49:22,538    dist_ma20_2x     equity $   954.01  exposure $     +636  OPEN LONG
+2026-11-19 03:12:03,424 paper trader started: 7 bots, BTC-USD
+2026-11-19 03:12:05,198 hour 2026-11-18 21:00 UTC  BTC $62,257
+2026-11-19 03:12:05,198    all_metrics_1x   equity $ 1,054.32  exposure $     -525  
+2026-11-19 03:12:05,198    all_metrics_2x   equity $ 1,108.24  exposure $   -1,098  
+2026-11-19 03:12:05,198    all_metrics_5x   equity $ 1,266.20  exposure $   -3,093  
+2026-11-19 03:12:05,198    trend_only_2x    equity $ 1,108.34  exposure $   -1,450  
+2026-11-19 03:12:05,198    oscillators_2x   equity $   971.32  exposure $     -323  
+2026-11-19 03:12:05,198    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 03:12:05,198    dist_ma20_2x     equity $   951.19  exposure $     +636  
+2026-11-19 03:12:05,204 hour 2026-11-18 22:00 UTC  BTC $62,166
+2026-11-19 03:12:05,205    all_metrics_1x   equity $ 1,055.07  exposure $     -525  
+2026-11-19 03:12:05,205    all_metrics_2x   equity $ 1,109.81  exposure $   -1,098  
+2026-11-19 03:12:05,205    all_metrics_5x   equity $ 1,270.63  exposure $   -3,093  
+2026-11-19 03:12:05,205    trend_only_2x    equity $ 1,110.41  exposure $   -1,450  
+2026-11-19 03:12:05,205    oscillators_2x   equity $   971.79  exposure $     -323  
+2026-11-19 03:12:05,205    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 03:12:05,205    dist_ma20_2x     equity $   950.27  exposure $     +636  
+2026-11-19 03:12:05,207 hour 2026-11-18 23:00 UTC  BTC $62,982
+2026-11-19 03:12:05,207    all_metrics_1x   equity $ 1,048.31  exposure $     -525  
+2026-11-19 03:12:05,207    all_metrics_2x   equity $ 1,095.66  exposure $   -1,098  
+2026-11-19 03:12:05,207    all_metrics_5x   equity $ 1,230.76  exposure $   -3,093  
+2026-11-19 03:12:05,207    trend_only_2x    equity $ 1,091.82  exposure $   -1,450  
+2026-11-19 03:12:05,207    oscillators_2x   equity $   967.57  exposure $     -323  
+2026-11-19 03:12:05,207    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 03:12:05,207    dist_ma20_2x     equity $   958.56  exposure $     +636  
+2026-11-19 03:12:05,238 hour 2026-11-19 00:00 UTC  BTC $63,116
+2026-11-19 03:12:05,238    all_metrics_1x   equity $ 1,047.19  exposure $     -525  no trade
+2026-11-19 03:12:05,238    all_metrics_2x   equity $ 1,093.32  exposure $   -1,098  no trade
+2026-11-19 03:12:05,238    all_metrics_5x   equity $ 1,224.17  exposure $   -3,093  no trade
+2026-11-19 03:12:05,238    trend_only_2x    equity $ 1,088.33  exposure $   -1,092  no trade
+2026-11-19 03:12:05,238    oscillators_2x   equity $   966.88  exposure $     -323  no trade
+2026-11-19 03:12:05,238    volume_vol_2x    equity $   973.18  exposure $       +0  no trade
+2026-11-19 03:12:05,238    dist_ma20_2x     equity $   959.92  exposure $     +636  no trade
+2026-11-19 03:12:05,241 hour 2026-11-19 01:00 UTC  BTC $62,781
+2026-11-19 03:12:05,241    all_metrics_1x   equity $ 1,049.98  exposure $     -525  
+2026-11-19 03:12:05,241    all_metrics_2x   equity $ 1,099.14  exposure $   -1,098  
+2026-11-19 03:12:05,241    all_metrics_5x   equity $ 1,240.57  exposure $   -3,093  
+2026-11-19 03:12:05,241    trend_only_2x    equity $ 1,094.12  exposure $   -1,092  
+2026-11-19 03:12:05,241    oscillators_2x   equity $   968.61  exposure $     -323  
+2026-11-19 03:12:05,241    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 03:12:05,241    dist_ma20_2x     equity $   956.52  exposure $     +636  
+2026-11-19 03:12:05,244 hour 2026-11-19 02:00 UTC  BTC $62,527
+2026-11-19 03:12:05,244    all_metrics_1x   equity $ 1,052.08  exposure $     -525  
+2026-11-19 03:12:05,244    all_metrics_2x   equity $ 1,103.54  exposure $   -1,098  
+2026-11-19 03:12:05,245    all_metrics_5x   equity $ 1,252.97  exposure $   -3,093  
+2026-11-19 03:12:05,245    trend_only_2x    equity $ 1,098.50  exposure $   -1,092  
+2026-11-19 03:12:05,245    oscillators_2x   equity $   969.92  exposure $     -323  
+2026-11-19 03:12:05,245    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 03:12:05,245    dist_ma20_2x     equity $   953.94  exposure $     +636  
+2026-11-19 12:50:47,642 paper trader started: 7 bots, BTC-USD
+2026-11-19 12:50:49,549 hour 2026-11-19 03:00 UTC  BTC $63,135
+2026-11-19 12:50:49,549    all_metrics_1x   equity $ 1,047.04  exposure $     -525  
+2026-11-19 12:50:49,550    all_metrics_2x   equity $ 1,092.99  exposure $   -1,098  
+2026-11-19 12:50:49,550    all_metrics_5x   equity $ 1,223.25  exposure $   -3,093  
+2026-11-19 12:50:49,550    trend_only_2x    equity $ 1,088.00  exposure $   -1,092  
+2026-11-19 12:50:49,550    oscillators_2x   equity $   966.78  exposure $     -323  
+2026-11-19 12:50:49,550    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 12:50:49,550    dist_ma20_2x     equity $   960.12  exposure $     +636  
+2026-11-19 12:50:49,647 hour 2026-11-19 04:00 UTC  BTC $63,513
+2026-11-19 12:50:49,647    all_metrics_1x   equity $ 1,043.91  exposure $     -525  no trade
+2026-11-19 12:50:49,647    all_metrics_2x   equity $ 1,086.44  exposure $   -1,098  no trade
+2026-11-19 12:50:49,647    all_metrics_5x   equity $ 1,204.80  exposure $   -3,093  no trade
+2026-11-19 12:50:49,647    trend_only_2x    equity $ 1,081.49  exposure $   -1,092  no trade
+2026-11-19 12:50:49,647    oscillators_2x   equity $   964.83  exposure $     -323  no trade
+2026-11-19 12:50:49,647    volume_vol_2x    equity $   973.18  exposure $       +0  no trade
+2026-11-19 12:50:49,647    dist_ma20_2x     equity $   963.95  exposure $     +636  no trade
+2026-11-19 12:50:49,651 hour 2026-11-19 05:00 UTC  BTC $63,288
+2026-11-19 12:50:49,651    all_metrics_1x   equity $ 1,045.77  exposure $     -525  
+2026-11-19 12:50:49,651    all_metrics_2x   equity $ 1,090.33  exposure $   -1,098  
+2026-11-19 12:50:49,651    all_metrics_5x   equity $ 1,215.75  exposure $   -3,093  
+2026-11-19 12:50:49,651    trend_only_2x    equity $ 1,085.35  exposure $   -1,092  
+2026-11-19 12:50:49,651    oscillators_2x   equity $   965.98  exposure $     -323  
+2026-11-19 12:50:49,651    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 12:50:49,651    dist_ma20_2x     equity $   961.67  exposure $     +636  
+2026-11-19 12:50:49,654 hour 2026-11-19 06:00 UTC  BTC $63,683
+2026-11-19 12:50:49,654    all_metrics_1x   equity $ 1,042.50  exposure $     -525  
+2026-11-19 12:50:49,654    all_metrics_2x   equity $ 1,083.49  exposure $   -1,098  
+2026-11-19 12:50:49,654    all_metrics_5x   equity $ 1,196.48  exposure $   -3,093  
+2026-11-19 12:50:49,654    trend_only_2x    equity $ 1,078.55  exposure $   -1,092  
+2026-11-19 12:50:49,654    oscillators_2x   equity $   963.95  exposure $     -323  
+2026-11-19 12:50:49,654    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 12:50:49,654    dist_ma20_2x     equity $   965.68  exposure $     +636  
+2026-11-19 12:50:49,657 hour 2026-11-19 07:00 UTC  BTC $63,669
+2026-11-19 12:50:49,657    all_metrics_1x   equity $ 1,042.61  exposure $     -525  
+2026-11-19 12:50:49,657    all_metrics_2x   equity $ 1,083.73  exposure $   -1,098  
+2026-11-19 12:50:49,657    all_metrics_5x   equity $ 1,197.14  exposure $   -3,093  
+2026-11-19 12:50:49,657    trend_only_2x    equity $ 1,078.78  exposure $   -1,092  
+2026-11-19 12:50:49,657    oscillators_2x   equity $   964.02  exposure $     -323  
+2026-11-19 12:50:49,657    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 12:50:49,657    dist_ma20_2x     equity $   965.54  exposure $     +636  
+2026-11-19 12:50:49,840 hour 2026-11-19 08:00 UTC  BTC $63,665
+2026-11-19 12:50:49,840    all_metrics_1x   equity $ 1,042.43  exposure $     -351  no trade
+2026-11-19 12:50:49,840    all_metrics_2x   equity $ 1,083.36  exposure $     -735  no trade
+2026-11-19 12:50:49,840    all_metrics_5x   equity $ 1,196.11  exposure $   -2,084  no trade
+2026-11-19 12:50:49,840    trend_only_2x    equity $ 1,078.42  exposure $     -734  no trade
+2026-11-19 12:50:49,840    oscillators_2x   equity $   964.04  exposure $     -323  no trade
+2026-11-19 12:50:49,840    volume_vol_2x    equity $   973.18  exposure $       +0  no trade
+2026-11-19 12:50:49,840    dist_ma20_2x     equity $   965.50  exposure $     +636  no trade
+2026-11-19 12:50:50,017 hour 2026-11-19 09:00 UTC  BTC $63,787
+2026-11-19 12:50:50,017    all_metrics_1x   equity $ 1,041.75  exposure $     -351  
+2026-11-19 12:50:50,017    all_metrics_2x   equity $ 1,081.93  exposure $     -735  
+2026-11-19 12:50:50,017    all_metrics_5x   equity $ 1,192.07  exposure $   -2,084  
+2026-11-19 12:50:50,017    trend_only_2x    equity $ 1,076.99  exposure $     -734  
+2026-11-19 12:50:50,017    oscillators_2x   equity $   963.41  exposure $     -323  
+2026-11-19 12:50:50,017    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 12:50:50,017    dist_ma20_2x     equity $   966.74  exposure $     +636  
+2026-11-19 12:50:50,038 hour 2026-11-19 10:00 UTC  BTC $63,720
+2026-11-19 12:50:50,038    all_metrics_1x   equity $ 1,042.13  exposure $     -351  
+2026-11-19 12:50:50,038    all_metrics_2x   equity $ 1,082.72  exposure $     -735  
+2026-11-19 12:50:50,038    all_metrics_5x   equity $ 1,194.30  exposure $   -2,084  
+2026-11-19 12:50:50,038    trend_only_2x    equity $ 1,077.78  exposure $     -734  
+2026-11-19 12:50:50,038    oscillators_2x   equity $   963.75  exposure $     -323  
+2026-11-19 12:50:50,038    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 12:50:50,038    dist_ma20_2x     equity $   966.06  exposure $     +636  
+2026-11-19 12:50:50,210 hour 2026-11-19 11:00 UTC  BTC $63,881
+2026-11-19 12:50:50,210    all_metrics_1x   equity $ 1,041.22  exposure $     -351  
+2026-11-19 12:50:50,210    all_metrics_2x   equity $ 1,080.82  exposure $     -735  
+2026-11-19 12:50:50,210    all_metrics_5x   equity $ 1,188.93  exposure $   -2,084  
+2026-11-19 12:50:50,210    trend_only_2x    equity $ 1,075.89  exposure $     -734  
+2026-11-19 12:50:50,210    oscillators_2x   equity $   962.92  exposure $     -323  
+2026-11-19 12:50:50,210    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 12:50:50,210    dist_ma20_2x     equity $   967.70  exposure $     +636  
+2026-11-19 21:23:21,300 paper trader started: 7 bots, BTC-USD
+2026-11-19 21:23:23,334 hour 2026-11-19 12:00 UTC  BTC $63,813
+2026-11-19 21:23:23,335    all_metrics_1x   equity $ 1,041.61  exposure $     -351  no trade
+2026-11-19 21:23:23,335    all_metrics_2x   equity $ 1,081.63  exposure $     -735  no trade
+2026-11-19 21:23:23,335    all_metrics_5x   equity $ 1,191.21  exposure $   -2,084  no trade
+2026-11-19 21:23:23,335    trend_only_2x    equity $ 1,076.62  exposure $   -1,093  OPEN SHORT
+2026-11-19 21:23:23,335    oscillators_2x   equity $   963.27  exposure $     -323  no trade
+2026-11-19 21:23:23,335    volume_vol_2x    equity $   973.18  exposure $       +0  no trade
+2026-11-19 21:23:23,335    dist_ma20_2x     equity $   967.00  exposure $     +636  no trade
+2026-11-19 21:23:23,338 hour 2026-11-19 13:00 UTC  BTC $63,971
+2026-11-19 21:23:23,338    all_metrics_1x   equity $ 1,040.72  exposure $     -351  
+2026-11-19 21:23:23,338    all_metrics_2x   equity $ 1,079.76  exposure $     -735  
+2026-11-19 21:23:23,338    all_metrics_5x   equity $ 1,185.93  exposure $   -2,084  
+2026-11-19 21:23:23,338    trend_only_2x    equity $ 1,073.87  exposure $   -1,093  
+2026-11-19 21:23:23,338    oscillators_2x   equity $   962.45  exposure $     -323  
+2026-11-19 21:23:23,339    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 21:23:23,339    dist_ma20_2x     equity $   968.61  exposure $     +636  
+2026-11-19 21:23:23,342 hour 2026-11-19 14:00 UTC  BTC $63,481
+2026-11-19 21:23:23,342    all_metrics_1x   equity $ 1,043.47  exposure $     -351  
+2026-11-19 21:23:23,342    all_metrics_2x   equity $ 1,085.53  exposure $     -735  
+2026-11-19 21:23:23,342    all_metrics_5x   equity $ 1,202.26  exposure $   -2,084  
+2026-11-19 21:23:23,342    trend_only_2x    equity $ 1,082.38  exposure $   -1,093  
+2026-11-19 21:23:23,342    oscillators_2x   equity $   964.99  exposure $     -323  
+2026-11-19 21:23:23,342    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 21:23:23,342    dist_ma20_2x     equity $   963.63  exposure $     +636  
+2026-11-19 21:23:23,345 hour 2026-11-19 15:00 UTC  BTC $63,033
+2026-11-19 21:23:23,345    all_metrics_1x   equity $ 1,045.97  exposure $     -351  
+2026-11-19 21:23:23,346    all_metrics_2x   equity $ 1,090.79  exposure $     -735  
+2026-11-19 21:23:23,346    all_metrics_5x   equity $ 1,217.17  exposure $   -2,084  
+2026-11-19 21:23:23,346    trend_only_2x    equity $ 1,090.15  exposure $   -1,093  
+2026-11-19 21:23:23,346    oscillators_2x   equity $   967.31  exposure $     -323  
+2026-11-19 21:23:23,346    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 21:23:23,346    dist_ma20_2x     equity $   959.08  exposure $     +636  
+2026-11-19 21:23:23,394 hour 2026-11-19 16:00 UTC  BTC $62,704
+2026-11-19 21:23:23,394    all_metrics_1x   equity $ 1,047.57  exposure $     -350  OPEN SHORT
+2026-11-19 21:23:23,394    all_metrics_2x   equity $ 1,094.14  exposure $     -733  OPEN SHORT
+2026-11-19 21:23:23,395    all_metrics_5x   equity $ 1,226.68  exposure $   -2,066  OPEN SHORT
+2026-11-19 21:23:23,395    trend_only_2x    equity $ 1,095.35  exposure $   -1,091  OPEN SHORT
+2026-11-19 21:23:23,395    oscillators_2x   equity $   969.01  exposure $     -323  no trade
+2026-11-19 21:23:23,395    volume_vol_2x    equity $   973.18  exposure $       +0  no trade
+2026-11-19 21:23:23,395    dist_ma20_2x     equity $   955.35  exposure $     +318  no trade
+2026-11-19 21:23:23,398 hour 2026-11-19 17:00 UTC  BTC $62,671
+2026-11-19 21:23:23,398    all_metrics_1x   equity $ 1,047.75  exposure $     -350  
+2026-11-19 21:23:23,398    all_metrics_2x   equity $ 1,094.52  exposure $     -733  
+2026-11-19 21:23:23,398    all_metrics_5x   equity $ 1,227.76  exposure $   -2,066  
+2026-11-19 21:23:23,398    trend_only_2x    equity $ 1,095.91  exposure $   -1,091  
+2026-11-19 21:23:23,398    oscillators_2x   equity $   969.18  exposure $     -323  
+2026-11-19 21:23:23,398    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 21:23:23,398    dist_ma20_2x     equity $   955.18  exposure $     +318  
+2026-11-19 21:23:23,401 hour 2026-11-19 18:00 UTC  BTC $62,811
+2026-11-19 21:23:23,402    all_metrics_1x   equity $ 1,046.97  exposure $     -350  
+2026-11-19 21:23:23,402    all_metrics_2x   equity $ 1,092.89  exposure $     -733  
+2026-11-19 21:23:23,402    all_metrics_5x   equity $ 1,223.15  exposure $   -2,066  
+2026-11-19 21:23:23,402    trend_only_2x    equity $ 1,093.49  exposure $   -1,091  
+2026-11-19 21:23:23,402    oscillators_2x   equity $   968.46  exposure $     -323  
+2026-11-19 21:23:23,402    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 21:23:23,402    dist_ma20_2x     equity $   955.89  exposure $     +318  
+2026-11-19 21:23:23,405 hour 2026-11-19 19:00 UTC  BTC $62,292
+2026-11-19 21:23:23,405    all_metrics_1x   equity $ 1,049.88  exposure $     -350  
+2026-11-19 21:23:23,405    all_metrics_2x   equity $ 1,098.96  exposure $     -733  
+2026-11-19 21:23:23,405    all_metrics_5x   equity $ 1,240.28  exposure $   -2,066  
+2026-11-19 21:23:23,405    trend_only_2x    equity $ 1,102.48  exposure $   -1,091  
+2026-11-19 21:23:23,406    oscillators_2x   equity $   971.14  exposure $     -323  
+2026-11-19 21:23:23,406    volume_vol_2x    equity $   973.18  exposure $       +0  
+2026-11-19 21:23:23,406    dist_ma20_2x     equity $   953.25  exposure $     +318  
+2026-11-19 21:23:23,454 hour 2026-11-19 20:00 UTC  BTC $62,049
+2026-11-19 21:23:23,454    all_metrics_1x   equity $ 1,050.99  exposure $     -350  OPEN SHORT
+2026-11-19 21:23:23,454    all_metrics_2x   equity $ 1,101.29  exposure $     -732  OPEN SHORT
+2026-11-19 21:23:23,454    all_metrics_5x   equity $ 1,246.84  exposure $   -2,062  OPEN SHORT
+2026-11-19 21:23:23,454    trend_only_2x    equity $ 1,106.18  exposure $   -1,093  OPEN SHORT
+2026-11-19 21:23:23,454    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-19 21:23:23,455    volume_vol_2x    equity $   973.11  exposure $     +324  OPEN LONG
+2026-11-19 21:23:23,455    dist_ma20_2x     equity $   951.58  exposure $     +317  OPEN LONG
+2026-11-20 02:59:55,454 paper trader started: 7 bots, BTC-USD
+2026-11-20 02:59:56,999 hour 2026-11-19 21:00 UTC  BTC $61,460
+2026-11-20 02:59:56,999    all_metrics_1x   equity $ 1,054.29  exposure $     -350  
+2026-11-20 02:59:56,999    all_metrics_2x   equity $ 1,108.19  exposure $     -732  
+2026-11-20 02:59:56,999    all_metrics_5x   equity $ 1,266.29  exposure $   -2,062  
+2026-11-20 02:59:56,999    trend_only_2x    equity $ 1,116.41  exposure $   -1,093  
+2026-11-20 02:59:56,999    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 02:59:56,999    volume_vol_2x    equity $   970.03  exposure $     +324  
+2026-11-20 02:59:56,999    dist_ma20_2x     equity $   948.57  exposure $     +317  
+2026-11-20 02:59:57,002 hour 2026-11-19 22:00 UTC  BTC $62,095
+2026-11-20 02:59:57,003    all_metrics_1x   equity $ 1,050.73  exposure $     -350  
+2026-11-20 02:59:57,003    all_metrics_2x   equity $ 1,100.75  exposure $     -732  
+2026-11-20 02:59:57,003    all_metrics_5x   equity $ 1,245.31  exposure $   -2,062  
+2026-11-20 02:59:57,003    trend_only_2x    equity $ 1,105.38  exposure $   -1,093  
+2026-11-20 02:59:57,003    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 02:59:57,003    volume_vol_2x    equity $   973.35  exposure $     +324  
+2026-11-20 02:59:57,003    dist_ma20_2x     equity $   951.81  exposure $     +317  
+2026-11-20 02:59:57,006 hour 2026-11-19 23:00 UTC  BTC $61,913
+2026-11-20 02:59:57,006    all_metrics_1x   equity $ 1,051.75  exposure $     -350  
+2026-11-20 02:59:57,006    all_metrics_2x   equity $ 1,102.88  exposure $     -732  
+2026-11-20 02:59:57,006    all_metrics_5x   equity $ 1,251.32  exposure $   -2,062  
+2026-11-20 02:59:57,006    trend_only_2x    equity $ 1,108.54  exposure $   -1,093  
+2026-11-20 02:59:57,006    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 02:59:57,006    volume_vol_2x    equity $   972.40  exposure $     +324  
+2026-11-20 02:59:57,006    dist_ma20_2x     equity $   950.88  exposure $     +317  
+2026-11-20 02:59:57,037 hour 2026-11-20 00:00 UTC  BTC $62,071
+2026-11-20 02:59:57,037    all_metrics_1x   equity $ 1,050.86  exposure $     -350  no trade
+2026-11-20 02:59:57,037    all_metrics_2x   equity $ 1,101.02  exposure $     -732  no trade
+2026-11-20 02:59:57,037    all_metrics_5x   equity $ 1,246.10  exposure $   -2,062  no trade
+2026-11-20 02:59:57,037    trend_only_2x    equity $ 1,105.71  exposure $   -1,461  OPEN SHORT
+2026-11-20 02:59:57,037    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-20 02:59:57,037    volume_vol_2x    equity $   973.23  exposure $     +324  no trade
+2026-11-20 02:59:57,037    dist_ma20_2x     equity $   951.69  exposure $     +317  no trade
+2026-11-20 02:59:57,040 hour 2026-11-20 01:00 UTC  BTC $61,507
+2026-11-20 02:59:57,040    all_metrics_1x   equity $ 1,054.03  exposure $     -350  
+2026-11-20 02:59:57,040    all_metrics_2x   equity $ 1,107.65  exposure $     -732  
+2026-11-20 02:59:57,040    all_metrics_5x   equity $ 1,264.76  exposure $   -2,062  
+2026-11-20 02:59:57,040    trend_only_2x    equity $ 1,118.88  exposure $   -1,461  
+2026-11-20 02:59:57,040    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 02:59:57,040    volume_vol_2x    equity $   970.28  exposure $     +324  
+2026-11-20 02:59:57,040    dist_ma20_2x     equity $   948.81  exposure $     +317  
+2026-11-20 11:21:51,919 paper trader started: 7 bots, BTC-USD
+2026-11-20 11:21:53,560 hour 2026-11-20 02:00 UTC  BTC $62,198
+2026-11-20 11:21:53,560    all_metrics_1x   equity $ 1,050.15  exposure $     -350  
+2026-11-20 11:21:53,560    all_metrics_2x   equity $ 1,099.53  exposure $     -732  
+2026-11-20 11:21:53,560    all_metrics_5x   equity $ 1,241.90  exposure $   -2,062  
+2026-11-20 11:21:53,560    trend_only_2x    equity $ 1,102.75  exposure $   -1,461  
+2026-11-20 11:21:53,560    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 11:21:53,560    volume_vol_2x    equity $   973.89  exposure $     +324  
+2026-11-20 11:21:53,560    dist_ma20_2x     equity $   952.34  exposure $     +317  
+2026-11-20 11:21:53,631 hour 2026-11-20 03:00 UTC  BTC $62,082
+2026-11-20 11:21:53,631    all_metrics_1x   equity $ 1,050.80  exposure $     -350  
+2026-11-20 11:21:53,631    all_metrics_2x   equity $ 1,100.89  exposure $     -732  
+2026-11-20 11:21:53,631    all_metrics_5x   equity $ 1,245.73  exposure $   -2,062  
+2026-11-20 11:21:53,631    trend_only_2x    equity $ 1,105.46  exposure $   -1,461  
+2026-11-20 11:21:53,631    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 11:21:53,631    volume_vol_2x    equity $   973.29  exposure $     +324  
+2026-11-20 11:21:53,631    dist_ma20_2x     equity $   951.75  exposure $     +317  
+2026-11-20 11:21:53,663 hour 2026-11-20 04:00 UTC  BTC $61,450
+2026-11-20 11:21:53,663    all_metrics_1x   equity $ 1,054.35  exposure $     -350  no trade
+2026-11-20 11:21:53,663    all_metrics_2x   equity $ 1,108.31  exposure $     -732  no trade
+2026-11-20 11:21:53,663    all_metrics_5x   equity $ 1,266.63  exposure $   -2,062  no trade
+2026-11-20 11:21:53,663    trend_only_2x    equity $ 1,120.21  exposure $   -1,461  no trade
+2026-11-20 11:21:53,663    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-20 11:21:53,663    volume_vol_2x    equity $   969.98  exposure $     +324  no trade
+2026-11-20 11:21:53,663    dist_ma20_2x     equity $   948.45  exposure $     +633  OPEN LONG
+2026-11-20 11:21:53,665 hour 2026-11-20 05:00 UTC  BTC $61,853
+2026-11-20 11:21:53,666    all_metrics_1x   equity $ 1,052.09  exposure $     -350  
+2026-11-20 11:21:53,666    all_metrics_2x   equity $ 1,103.58  exposure $     -732  
+2026-11-20 11:21:53,666    all_metrics_5x   equity $ 1,253.31  exposure $   -2,062  
+2026-11-20 11:21:53,666    trend_only_2x    equity $ 1,110.81  exposure $   -1,461  
+2026-11-20 11:21:53,666    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 11:21:53,666    volume_vol_2x    equity $   972.09  exposure $     +324  
+2026-11-20 11:21:53,666    dist_ma20_2x     equity $   952.58  exposure $     +633  
+2026-11-20 11:21:53,668 hour 2026-11-20 06:00 UTC  BTC $61,997
+2026-11-20 11:21:53,668    all_metrics_1x   equity $ 1,051.28  exposure $     -350  
+2026-11-20 11:21:53,668    all_metrics_2x   equity $ 1,101.90  exposure $     -732  
+2026-11-20 11:21:53,668    all_metrics_5x   equity $ 1,248.55  exposure $   -2,062  
+2026-11-20 11:21:53,668    trend_only_2x    equity $ 1,107.45  exposure $   -1,461  
+2026-11-20 11:21:53,668    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 11:21:53,668    volume_vol_2x    equity $   972.84  exposure $     +324  
+2026-11-20 11:21:53,668    dist_ma20_2x     equity $   954.06  exposure $     +633  
+2026-11-20 11:21:53,671 hour 2026-11-20 07:00 UTC  BTC $61,783
+2026-11-20 11:21:53,671    all_metrics_1x   equity $ 1,052.48  exposure $     -350  
+2026-11-20 11:21:53,671    all_metrics_2x   equity $ 1,104.41  exposure $     -732  
+2026-11-20 11:21:53,671    all_metrics_5x   equity $ 1,255.63  exposure $   -2,062  
+2026-11-20 11:21:53,671    trend_only_2x    equity $ 1,112.44  exposure $   -1,461  
+2026-11-20 11:21:53,671    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 11:21:53,671    volume_vol_2x    equity $   971.72  exposure $     +324  
+2026-11-20 11:21:53,671    dist_ma20_2x     equity $   951.87  exposure $     +633  
+2026-11-20 11:21:53,701 hour 2026-11-20 08:00 UTC  BTC $61,760
+2026-11-20 11:21:53,701    all_metrics_1x   equity $ 1,052.61  exposure $     -350  no trade
+2026-11-20 11:21:53,701    all_metrics_2x   equity $ 1,104.68  exposure $     -732  no trade
+2026-11-20 11:21:53,701    all_metrics_5x   equity $ 1,256.38  exposure $   -2,062  no trade
+2026-11-20 11:21:53,701    trend_only_2x    equity $ 1,112.98  exposure $   -1,461  no trade
+2026-11-20 11:21:53,701    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-20 11:21:53,701    volume_vol_2x    equity $   971.60  exposure $     +324  no trade
+2026-11-20 11:21:53,701    dist_ma20_2x     equity $   951.63  exposure $     +633  no trade
+2026-11-20 11:21:53,703 hour 2026-11-20 09:00 UTC  BTC $61,580
+2026-11-20 11:21:53,704    all_metrics_1x   equity $ 1,053.62  exposure $     -350  
+2026-11-20 11:21:53,704    all_metrics_2x   equity $ 1,106.79  exposure $     -732  
+2026-11-20 11:21:53,704    all_metrics_5x   equity $ 1,262.33  exposure $   -2,062  
+2026-11-20 11:21:53,704    trend_only_2x    equity $ 1,117.17  exposure $   -1,461  
+2026-11-20 11:21:53,704    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 11:21:53,704    volume_vol_2x    equity $   970.66  exposure $     +324  
+2026-11-20 11:21:53,704    dist_ma20_2x     equity $   949.79  exposure $     +633  
+2026-11-20 11:21:53,706 hour 2026-11-20 10:00 UTC  BTC $61,986
+2026-11-20 11:21:53,706    all_metrics_1x   equity $ 1,051.34  exposure $     -350  
+2026-11-20 11:21:53,706    all_metrics_2x   equity $ 1,102.03  exposure $     -732  
+2026-11-20 11:21:53,706    all_metrics_5x   equity $ 1,248.92  exposure $   -2,062  
+2026-11-20 11:21:53,706    trend_only_2x    equity $ 1,107.71  exposure $   -1,461  
+2026-11-20 11:21:53,706    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 11:21:53,706    volume_vol_2x    equity $   972.78  exposure $     +324  
+2026-11-20 11:21:53,706    dist_ma20_2x     equity $   953.95  exposure $     +633  
+2026-11-20 19:58:56,102 paper trader started: 7 bots, BTC-USD
+2026-11-20 19:58:57,749 hour 2026-11-20 11:00 UTC  BTC $61,741
+2026-11-20 19:58:57,749    all_metrics_1x   equity $ 1,052.72  exposure $     -350  
+2026-11-20 19:58:57,749    all_metrics_2x   equity $ 1,104.90  exposure $     -732  
+2026-11-20 19:58:57,749    all_metrics_5x   equity $ 1,257.02  exposure $   -2,062  
+2026-11-20 19:58:57,750    trend_only_2x    equity $ 1,113.43  exposure $   -1,461  
+2026-11-20 19:58:57,750    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 19:58:57,750    volume_vol_2x    equity $   971.50  exposure $     +324  
+2026-11-20 19:58:57,750    dist_ma20_2x     equity $   951.43  exposure $     +633  
+2026-11-20 19:58:57,781 hour 2026-11-20 12:00 UTC  BTC $61,499
+2026-11-20 19:58:57,781    all_metrics_1x   equity $ 1,054.07  exposure $     -350  no trade
+2026-11-20 19:58:57,781    all_metrics_2x   equity $ 1,107.74  exposure $     -732  no trade
+2026-11-20 19:58:57,781    all_metrics_5x   equity $ 1,265.02  exposure $   -2,062  no trade
+2026-11-20 19:58:57,781    trend_only_2x    equity $ 1,118.65  exposure $   -1,102  no trade
+2026-11-20 19:58:57,781    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-20 19:58:57,781    volume_vol_2x    equity $   970.24  exposure $     +324  no trade
+2026-11-20 19:58:57,781    dist_ma20_2x     equity $   948.95  exposure $     +633  no trade
+2026-11-20 19:58:57,784 hour 2026-11-20 13:00 UTC  BTC $61,812
+2026-11-20 19:58:57,784    all_metrics_1x   equity $ 1,052.32  exposure $     -350  
+2026-11-20 19:58:57,784    all_metrics_2x   equity $ 1,104.06  exposure $     -732  
+2026-11-20 19:58:57,784    all_metrics_5x   equity $ 1,254.67  exposure $   -2,062  
+2026-11-20 19:58:57,784    trend_only_2x    equity $ 1,113.10  exposure $   -1,102  
+2026-11-20 19:58:57,784    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 19:58:57,785    volume_vol_2x    equity $   971.87  exposure $     +324  
+2026-11-20 19:58:57,785    dist_ma20_2x     equity $   952.17  exposure $     +633  
+2026-11-20 19:58:57,787 hour 2026-11-20 14:00 UTC  BTC $61,702
+2026-11-20 19:58:57,788    all_metrics_1x   equity $ 1,052.94  exposure $     -350  
+2026-11-20 19:58:57,788    all_metrics_2x   equity $ 1,105.36  exposure $     -732  
+2026-11-20 19:58:57,788    all_metrics_5x   equity $ 1,258.32  exposure $   -2,062  
+2026-11-20 19:58:57,788    trend_only_2x    equity $ 1,115.06  exposure $   -1,102  
+2026-11-20 19:58:57,788    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 19:58:57,788    volume_vol_2x    equity $   971.30  exposure $     +324  
+2026-11-20 19:58:57,788    dist_ma20_2x     equity $   951.03  exposure $     +633  
+2026-11-20 19:58:57,790 hour 2026-11-20 15:00 UTC  BTC $59,396
+2026-11-20 19:58:57,790    all_metrics_1x   equity $ 1,065.87  exposure $     -350  
+2026-11-20 19:58:57,790    all_metrics_2x   equity $ 1,132.42  exposure $     -732  
+2026-11-20 19:58:57,790    all_metrics_5x   equity $ 1,334.55  exposure $   -2,062  
+2026-11-20 19:58:57,791    trend_only_2x    equity $ 1,155.89  exposure $   -1,102  
+2026-11-20 19:58:57,791    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 19:58:57,791    volume_vol_2x    equity $   959.24  exposure $     +324  
+2026-11-20 19:58:57,791    dist_ma20_2x     equity $   927.38  exposure $     +633  
+2026-11-20 19:58:57,821 hour 2026-11-20 16:00 UTC  BTC $59,467
+2026-11-20 19:58:57,821    all_metrics_1x   equity $ 1,065.26  exposure $     -175  no trade
+2026-11-20 19:58:57,821    all_metrics_2x   equity $ 1,131.16  exposure $     -367  no trade
+2026-11-20 19:58:57,821    all_metrics_5x   equity $ 1,331.00  exposure $   -1,039  no trade
+2026-11-20 19:58:57,821    trend_only_2x    equity $ 1,154.20  exposure $     -737  no trade
+2026-11-20 19:58:57,821    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-20 19:58:57,821    volume_vol_2x    equity $   959.55  exposure $     +644  OPEN LONG
+2026-11-20 19:58:57,821    dist_ma20_2x     equity $   928.05  exposure $     +943  OPEN LONG
+2026-11-20 19:58:57,824 hour 2026-11-20 17:00 UTC  BTC $59,087
+2026-11-20 19:58:57,824    all_metrics_1x   equity $ 1,066.34  exposure $     -175  
+2026-11-20 19:58:57,824    all_metrics_2x   equity $ 1,133.41  exposure $     -367  
+2026-11-20 19:58:57,824    all_metrics_5x   equity $ 1,337.38  exposure $   -1,039  
+2026-11-20 19:58:57,824    trend_only_2x    equity $ 1,158.73  exposure $     -737  
+2026-11-20 19:58:57,824    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 19:58:57,824    volume_vol_2x    equity $   955.52  exposure $     +644  
+2026-11-20 19:58:57,824    dist_ma20_2x     equity $   922.17  exposure $     +943  
+2026-11-20 19:58:57,827 hour 2026-11-20 18:00 UTC  BTC $58,338
+2026-11-20 19:58:57,827    all_metrics_1x   equity $ 1,068.45  exposure $     -175  
+2026-11-20 19:58:57,827    all_metrics_2x   equity $ 1,137.85  exposure $     -367  
+2026-11-20 19:58:57,827    all_metrics_5x   equity $ 1,349.92  exposure $   -1,039  
+2026-11-20 19:58:57,827    trend_only_2x    equity $ 1,167.63  exposure $     -737  
+2026-11-20 19:58:57,827    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-20 19:58:57,827    volume_vol_2x    equity $   947.57  exposure $     +644  
+2026-11-20 19:58:57,827    dist_ma20_2x     equity $   910.59  exposure $     +943  
+2026-11-21 01:23:04,993 paper trader started: 7 bots, BTC-USD
+2026-11-21 01:23:07,718 hour 2026-11-20 19:00 UTC  BTC $58,472
+2026-11-21 01:23:07,718    all_metrics_1x   equity $ 1,068.08  exposure $     -175  
+2026-11-21 01:23:07,718    all_metrics_2x   equity $ 1,137.05  exposure $     -367  
+2026-11-21 01:23:07,718    all_metrics_5x   equity $ 1,347.67  exposure $   -1,039  
+2026-11-21 01:23:07,718    trend_only_2x    equity $ 1,166.03  exposure $     -737  
+2026-11-21 01:23:07,719    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 01:23:07,719    volume_vol_2x    equity $   949.00  exposure $     +644  
+2026-11-21 01:23:07,719    dist_ma20_2x     equity $   912.67  exposure $     +943  
+2026-11-21 01:23:07,767 hour 2026-11-20 20:00 UTC  BTC $58,353
+2026-11-21 01:23:07,768    all_metrics_1x   equity $ 1,068.21  exposure $       +0  no trade
+2026-11-21 01:23:07,768    all_metrics_2x   equity $ 1,137.33  exposure $       +0  no trade
+2026-11-21 01:23:07,768    all_metrics_5x   equity $ 1,348.47  exposure $       +0  no trade
+2026-11-21 01:23:07,768    trend_only_2x    equity $ 1,167.02  exposure $     -369  no trade
+2026-11-21 01:23:07,768    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-21 01:23:07,768    volume_vol_2x    equity $   947.29  exposure $     +636  OPEN LONG
+2026-11-21 01:23:07,768    dist_ma20_2x     equity $   910.40  exposure $     +929  OPEN LONG
+2026-11-21 01:23:07,772 hour 2026-11-20 21:00 UTC  BTC $58,889
+2026-11-21 01:23:07,772    all_metrics_1x   equity $ 1,068.21  exposure $       +0  
+2026-11-21 01:23:07,772    all_metrics_2x   equity $ 1,137.33  exposure $       +0  
+2026-11-21 01:23:07,772    all_metrics_5x   equity $ 1,348.47  exposure $       +0  
+2026-11-21 01:23:07,772    trend_only_2x    equity $ 1,163.84  exposure $     -369  
+2026-11-21 01:23:07,772    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 01:23:07,772    volume_vol_2x    equity $   953.08  exposure $     +636  
+2026-11-21 01:23:07,772    dist_ma20_2x     equity $   918.74  exposure $     +929  
+2026-11-21 01:23:07,775 hour 2026-11-20 22:00 UTC  BTC $59,034
+2026-11-21 01:23:07,776    all_metrics_1x   equity $ 1,068.21  exposure $       +0  
+2026-11-21 01:23:07,776    all_metrics_2x   equity $ 1,137.33  exposure $       +0  
+2026-11-21 01:23:07,776    all_metrics_5x   equity $ 1,348.47  exposure $       +0  
+2026-11-21 01:23:07,776    trend_only_2x    equity $ 1,162.97  exposure $     -369  
+2026-11-21 01:23:07,776    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 01:23:07,776    volume_vol_2x    equity $   954.64  exposure $     +636  
+2026-11-21 01:23:07,776    dist_ma20_2x     equity $   920.99  exposure $     +929  
+2026-11-21 01:23:07,780 hour 2026-11-20 23:00 UTC  BTC $58,815
+2026-11-21 01:23:07,780    all_metrics_1x   equity $ 1,068.21  exposure $       +0  
+2026-11-21 01:23:07,780    all_metrics_2x   equity $ 1,137.33  exposure $       +0  
+2026-11-21 01:23:07,780    all_metrics_5x   equity $ 1,348.47  exposure $       +0  
+2026-11-21 01:23:07,780    trend_only_2x    equity $ 1,164.27  exposure $     -369  
+2026-11-21 01:23:07,780    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 01:23:07,780    volume_vol_2x    equity $   952.28  exposure $     +636  
+2026-11-21 01:23:07,780    dist_ma20_2x     equity $   917.59  exposure $     +929  
+2026-11-21 01:23:07,829 hour 2026-11-21 00:00 UTC  BTC $58,900
+2026-11-21 01:23:07,829    all_metrics_1x   equity $ 1,068.21  exposure $       +0  no trade
+2026-11-21 01:23:07,829    all_metrics_2x   equity $ 1,137.33  exposure $       +0  no trade
+2026-11-21 01:23:07,829    all_metrics_5x   equity $ 1,348.47  exposure $       +0  no trade
+2026-11-21 01:23:07,829    trend_only_2x    equity $ 1,163.34  exposure $       +0  no trade
+2026-11-21 01:23:07,829    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-21 01:23:07,829    volume_vol_2x    equity $   953.20  exposure $     +636  no trade
+2026-11-21 01:23:07,829    dist_ma20_2x     equity $   918.85  exposure $   +1,235  OPEN LONG
+2026-11-21 09:37:19,000 paper trader started: 7 bots, BTC-USD
+2026-11-21 09:37:20,720 hour 2026-11-21 01:00 UTC  BTC $58,907
+2026-11-21 09:37:20,720    all_metrics_1x   equity $ 1,068.21  exposure $       +0  
+2026-11-21 09:37:20,721    all_metrics_2x   equity $ 1,137.33  exposure $       +0  
+2026-11-21 09:37:20,721    all_metrics_5x   equity $ 1,348.47  exposure $       +0  
+2026-11-21 09:37:20,721    trend_only_2x    equity $ 1,163.34  exposure $       +0  
+2026-11-21 09:37:20,721    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 09:37:20,721    volume_vol_2x    equity $   953.28  exposure $     +636  
+2026-11-21 09:37:20,721    dist_ma20_2x     equity $   919.00  exposure $   +1,235  
+2026-11-21 09:37:20,724 hour 2026-11-21 02:00 UTC  BTC $58,492
+2026-11-21 09:37:20,724    all_metrics_1x   equity $ 1,068.21  exposure $       +0  
+2026-11-21 09:37:20,725    all_metrics_2x   equity $ 1,137.33  exposure $       +0  
+2026-11-21 09:37:20,725    all_metrics_5x   equity $ 1,348.47  exposure $       +0  
+2026-11-21 09:37:20,725    trend_only_2x    equity $ 1,163.34  exposure $       +0  
+2026-11-21 09:37:20,725    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 09:37:20,725    volume_vol_2x    equity $   948.80  exposure $     +636  
+2026-11-21 09:37:20,725    dist_ma20_2x     equity $   910.38  exposure $   +1,235  
+2026-11-21 09:37:20,728 hour 2026-11-21 03:00 UTC  BTC $56,642
+2026-11-21 09:37:20,728    all_metrics_1x   equity $ 1,068.21  exposure $       +0  
+2026-11-21 09:37:20,728    all_metrics_2x   equity $ 1,137.33  exposure $       +0  
+2026-11-21 09:37:20,728    all_metrics_5x   equity $ 1,348.47  exposure $       +0  
+2026-11-21 09:37:20,728    trend_only_2x    equity $ 1,163.34  exposure $       +0  
+2026-11-21 09:37:20,728    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 09:37:20,728    volume_vol_2x    equity $   928.83  exposure $     +636  
+2026-11-21 09:37:20,728    dist_ma20_2x     equity $   872.00  exposure $   +1,235  
+2026-11-21 09:37:20,778 hour 2026-11-21 04:00 UTC  BTC $56,221
+2026-11-21 09:37:20,778    all_metrics_1x   equity $ 1,068.21  exposure $       +0  no trade
+2026-11-21 09:37:20,778    all_metrics_2x   equity $ 1,137.33  exposure $       +0  no trade
+2026-11-21 09:37:20,778    all_metrics_5x   equity $ 1,348.47  exposure $       +0  no trade
+2026-11-21 09:37:20,778    trend_only_2x    equity $ 1,163.34  exposure $       +0  no trade
+2026-11-21 09:37:20,778    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-21 09:37:20,778    volume_vol_2x    equity $   924.23  exposure $     +944  OPEN LONG
+2026-11-21 09:37:20,778    dist_ma20_2x     equity $   862.85  exposure $   +1,207  OPEN LONG
+2026-11-21 09:37:20,786 hour 2026-11-21 05:00 UTC  BTC $55,705
+2026-11-21 09:37:20,786    all_metrics_1x   equity $ 1,068.21  exposure $       +0  
+2026-11-21 09:37:20,786    all_metrics_2x   equity $ 1,137.33  exposure $       +0  
+2026-11-21 09:37:20,786    all_metrics_5x   equity $ 1,348.47  exposure $       +0  
+2026-11-21 09:37:20,786    trend_only_2x    equity $ 1,163.34  exposure $       +0  
+2026-11-21 09:37:20,786    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 09:37:20,786    volume_vol_2x    equity $   915.84  exposure $     +944  
+2026-11-21 09:37:20,786    dist_ma20_2x     equity $   852.16  exposure $   +1,207  
+2026-11-21 09:37:20,789 hour 2026-11-21 06:00 UTC  BTC $57,962
+2026-11-21 09:37:20,790    all_metrics_1x   equity $ 1,068.21  exposure $       +0  
+2026-11-21 09:37:20,790    all_metrics_2x   equity $ 1,137.33  exposure $       +0  
+2026-11-21 09:37:20,790    all_metrics_5x   equity $ 1,348.47  exposure $       +0  
+2026-11-21 09:37:20,790    trend_only_2x    equity $ 1,163.34  exposure $       +0  
+2026-11-21 09:37:20,790    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 09:37:20,790    volume_vol_2x    equity $   952.56  exposure $     +944  
+2026-11-21 09:37:20,790    dist_ma20_2x     equity $   898.92  exposure $   +1,207  
+2026-11-21 09:37:20,793 hour 2026-11-21 07:00 UTC  BTC $57,876
+2026-11-21 09:37:20,793    all_metrics_1x   equity $ 1,068.21  exposure $       +0  
+2026-11-21 09:37:20,793    all_metrics_2x   equity $ 1,137.33  exposure $       +0  
+2026-11-21 09:37:20,793    all_metrics_5x   equity $ 1,348.47  exposure $       +0  
+2026-11-21 09:37:20,793    trend_only_2x    equity $ 1,163.34  exposure $       +0  
+2026-11-21 09:37:20,794    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 09:37:20,794    volume_vol_2x    equity $   951.16  exposure $     +944  
+2026-11-21 09:37:20,794    dist_ma20_2x     equity $   897.15  exposure $   +1,207  
+2026-11-21 09:37:20,841 hour 2026-11-21 08:00 UTC  BTC $57,693
+2026-11-21 09:37:20,841    all_metrics_1x   equity $ 1,068.17  exposure $     +178  OPEN LONG
+2026-11-21 09:37:20,841    all_metrics_2x   equity $ 1,137.26  exposure $     +379  OPEN LONG
+2026-11-21 09:37:20,841    all_metrics_5x   equity $ 1,348.24  exposure $   +1,124  OPEN LONG
+2026-11-21 09:37:20,841    trend_only_2x    equity $ 1,163.34  exposure $       +0  no trade
+2026-11-21 09:37:20,841    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-21 09:37:20,841    volume_vol_2x    equity $   948.12  exposure $   +1,260  OPEN LONG
+2026-11-21 09:37:20,841    dist_ma20_2x     equity $   893.34  exposure $   +1,207  no trade
+2026-11-21 17:21:25,562 paper trader started: 7 bots, BTC-USD
+2026-11-21 17:21:27,535 hour 2026-11-21 09:00 UTC  BTC $57,912
+2026-11-21 17:21:27,536    all_metrics_1x   equity $ 1,068.85  exposure $     +178  
+2026-11-21 17:21:27,536    all_metrics_2x   equity $ 1,138.70  exposure $     +379  
+2026-11-21 17:21:27,536    all_metrics_5x   equity $ 1,352.51  exposure $   +1,124  
+2026-11-21 17:21:27,536    trend_only_2x    equity $ 1,163.34  exposure $       +0  
+2026-11-21 17:21:27,536    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 17:21:27,536    volume_vol_2x    equity $   952.88  exposure $   +1,260  
+2026-11-21 17:21:27,536    dist_ma20_2x     equity $   897.89  exposure $   +1,207  
+2026-11-21 17:21:27,795 hour 2026-11-21 10:00 UTC  BTC $57,834
+2026-11-21 17:21:27,795    all_metrics_1x   equity $ 1,068.61  exposure $     +178  
+2026-11-21 17:21:27,795    all_metrics_2x   equity $ 1,138.18  exposure $     +379  
+2026-11-21 17:21:27,795    all_metrics_5x   equity $ 1,350.99  exposure $   +1,124  
+2026-11-21 17:21:27,795    trend_only_2x    equity $ 1,163.34  exposure $       +0  
+2026-11-21 17:21:27,795    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 17:21:27,795    volume_vol_2x    equity $   951.18  exposure $   +1,260  
+2026-11-21 17:21:27,795    dist_ma20_2x     equity $   896.27  exposure $   +1,207  
+2026-11-21 17:21:27,975 hour 2026-11-21 11:00 UTC  BTC $58,111
+2026-11-21 17:21:27,975    all_metrics_1x   equity $ 1,069.46  exposure $     +178  
+2026-11-21 17:21:27,975    all_metrics_2x   equity $ 1,140.00  exposure $     +379  
+2026-11-21 17:21:27,975    all_metrics_5x   equity $ 1,356.38  exposure $   +1,124  
+2026-11-21 17:21:27,975    trend_only_2x    equity $ 1,163.34  exposure $       +0  
+2026-11-21 17:21:27,975    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 17:21:27,975    volume_vol_2x    equity $   957.20  exposure $   +1,260  
+2026-11-21 17:21:27,975    dist_ma20_2x     equity $   902.00  exposure $   +1,207  
+2026-11-21 17:21:28,011 hour 2026-11-21 12:00 UTC  BTC $58,765
+2026-11-21 17:21:28,011    all_metrics_1x   equity $ 1,071.48  exposure $     +178  no trade
+2026-11-21 17:21:28,011    all_metrics_2x   equity $ 1,144.30  exposure $     +379  no trade
+2026-11-21 17:21:28,011    all_metrics_5x   equity $ 1,369.11  exposure $   +1,124  no trade
+2026-11-21 17:21:28,011    trend_only_2x    equity $ 1,163.34  exposure $       +0  no trade
+2026-11-21 17:21:28,011    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-21 17:21:28,011    volume_vol_2x    equity $   971.35  exposure $   +1,584  OPEN LONG
+2026-11-21 17:21:28,011    dist_ma20_2x     equity $   915.54  exposure $   +1,207  no trade
+2026-11-21 17:21:28,025 hour 2026-11-21 13:00 UTC  BTC $60,453
+2026-11-21 17:21:28,025    all_metrics_1x   equity $ 1,076.69  exposure $     +178  
+2026-11-21 17:21:28,025    all_metrics_2x   equity $ 1,155.39  exposure $     +379  
+2026-11-21 17:21:28,025    all_metrics_5x   equity $ 1,401.99  exposure $   +1,124  
+2026-11-21 17:21:28,025    trend_only_2x    equity $ 1,163.34  exposure $       +0  
+2026-11-21 17:21:28,025    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 17:21:28,025    volume_vol_2x    equity $ 1,017.36  exposure $   +1,584  
+2026-11-21 17:21:28,025    dist_ma20_2x     equity $   950.52  exposure $   +1,207  
+2026-11-21 17:21:28,043 hour 2026-11-21 14:00 UTC  BTC $60,237
+2026-11-21 17:21:28,043    all_metrics_1x   equity $ 1,076.02  exposure $     +178  
+2026-11-21 17:21:28,043    all_metrics_2x   equity $ 1,153.97  exposure $     +379  
+2026-11-21 17:21:28,043    all_metrics_5x   equity $ 1,397.80  exposure $   +1,124  
+2026-11-21 17:21:28,043    trend_only_2x    equity $ 1,163.34  exposure $       +0  
+2026-11-21 17:21:28,043    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 17:21:28,043    volume_vol_2x    equity $ 1,011.50  exposure $   +1,584  
+2026-11-21 17:21:28,043    dist_ma20_2x     equity $   946.06  exposure $   +1,207  
+2026-11-21 17:21:28,065 hour 2026-11-21 15:00 UTC  BTC $59,826
+2026-11-21 17:21:28,065    all_metrics_1x   equity $ 1,074.76  exposure $     +178  
+2026-11-21 17:21:28,066    all_metrics_2x   equity $ 1,151.27  exposure $     +379  
+2026-11-21 17:21:28,066    all_metrics_5x   equity $ 1,389.79  exposure $   +1,124  
+2026-11-21 17:21:28,066    trend_only_2x    equity $ 1,163.34  exposure $       +0  
+2026-11-21 17:21:28,066    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 17:21:28,066    volume_vol_2x    equity $ 1,000.29  exposure $   +1,584  
+2026-11-21 17:21:28,066    dist_ma20_2x     equity $   937.54  exposure $   +1,207  
+2026-11-21 17:21:28,181 hour 2026-11-21 16:00 UTC  BTC $59,943
+2026-11-21 17:21:28,181    all_metrics_1x   equity $ 1,075.12  exposure $     +178  no trade
+2026-11-21 17:21:28,182    all_metrics_2x   equity $ 1,152.04  exposure $     +379  no trade
+2026-11-21 17:21:28,182    all_metrics_5x   equity $ 1,392.07  exposure $   +1,124  no trade
+2026-11-21 17:21:28,182    trend_only_2x    equity $ 1,163.26  exposure $     -388  OPEN SHORT
+2026-11-21 17:21:28,182    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-21 17:21:28,182    volume_vol_2x    equity $ 1,003.10  exposure $   +1,264  no trade
+2026-11-21 17:21:28,182    dist_ma20_2x     equity $   939.53  exposure $     +584  OPEN SHORT
+2026-11-21 23:03:51,231 paper trader started: 7 bots, BTC-USD
+2026-11-21 23:03:53,250 hour 2026-11-21 17:00 UTC  BTC $59,967
+2026-11-21 23:03:53,251    all_metrics_1x   equity $ 1,075.19  exposure $     +178  
+2026-11-21 23:03:53,251    all_metrics_2x   equity $ 1,152.20  exposure $     +379  
+2026-11-21 23:03:53,251    all_metrics_5x   equity $ 1,392.54  exposure $   +1,124  
+2026-11-21 23:03:53,251    trend_only_2x    equity $ 1,163.11  exposure $     -388  
+2026-11-21 23:03:53,251    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 23:03:53,251    volume_vol_2x    equity $ 1,003.62  exposure $   +1,264  
+2026-11-21 23:03:53,251    dist_ma20_2x     equity $   939.78  exposure $     +584  
+2026-11-21 23:03:53,255 hour 2026-11-21 18:00 UTC  BTC $60,040
+2026-11-21 23:03:53,255    all_metrics_1x   equity $ 1,075.42  exposure $     +178  
+2026-11-21 23:03:53,255    all_metrics_2x   equity $ 1,152.68  exposure $     +379  
+2026-11-21 23:03:53,255    all_metrics_5x   equity $ 1,393.96  exposure $   +1,124  
+2026-11-21 23:03:53,255    trend_only_2x    equity $ 1,162.64  exposure $     -388  
+2026-11-21 23:03:53,255    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 23:03:53,255    volume_vol_2x    equity $ 1,005.22  exposure $   +1,264  
+2026-11-21 23:03:53,255    dist_ma20_2x     equity $   940.53  exposure $     +584  
+2026-11-21 23:03:53,259 hour 2026-11-21 19:00 UTC  BTC $60,231
+2026-11-21 23:03:53,259    all_metrics_1x   equity $ 1,076.01  exposure $     +178  
+2026-11-21 23:03:53,260    all_metrics_2x   equity $ 1,153.93  exposure $     +379  
+2026-11-21 23:03:53,260    all_metrics_5x   equity $ 1,397.68  exposure $   +1,124  
+2026-11-21 23:03:53,260    trend_only_2x    equity $ 1,161.40  exposure $     -388  
+2026-11-21 23:03:53,260    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 23:03:53,260    volume_vol_2x    equity $ 1,009.40  exposure $   +1,264  
+2026-11-21 23:03:53,260    dist_ma20_2x     equity $   942.49  exposure $     +584  
+2026-11-21 23:03:53,307 hour 2026-11-21 20:00 UTC  BTC $60,321
+2026-11-21 23:03:53,307    all_metrics_1x   equity $ 1,076.25  exposure $       -1  OPEN SHORT
+2026-11-21 23:03:53,307    all_metrics_2x   equity $ 1,154.45  exposure $       -6  OPEN SHORT
+2026-11-21 23:03:53,308    all_metrics_5x   equity $ 1,399.20  exposure $      -42  OPEN SHORT
+2026-11-21 23:03:53,308    trend_only_2x    equity $ 1,160.74  exposure $     -775  OPEN SHORT
+2026-11-21 23:03:53,308    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-21 23:03:53,308    volume_vol_2x    equity $ 1,010.98  exposure $     +948  no trade
+2026-11-21 23:03:53,308    dist_ma20_2x     equity $   942.98  exposure $      -34  OPEN SHORT
+2026-11-21 23:03:53,312 hour 2026-11-21 21:00 UTC  BTC $60,348
+2026-11-21 23:03:53,312    all_metrics_1x   equity $ 1,076.25  exposure $       -1  
+2026-11-21 23:03:53,312    all_metrics_2x   equity $ 1,154.45  exposure $       -6  
+2026-11-21 23:03:53,312    all_metrics_5x   equity $ 1,399.20  exposure $      -42  
+2026-11-21 23:03:53,312    trend_only_2x    equity $ 1,160.40  exposure $     -775  
+2026-11-21 23:03:53,312    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 23:03:53,312    volume_vol_2x    equity $ 1,011.42  exposure $     +948  
+2026-11-21 23:03:53,312    dist_ma20_2x     equity $   942.98  exposure $      -34  
+2026-11-21 23:03:53,315 hour 2026-11-21 22:00 UTC  BTC $60,024
+2026-11-21 23:03:53,315    all_metrics_1x   equity $ 1,076.21  exposure $       -1  
+2026-11-21 23:03:53,315    all_metrics_2x   equity $ 1,154.39  exposure $       -6  
+2026-11-21 23:03:53,315    all_metrics_5x   equity $ 1,399.16  exposure $      -42  
+2026-11-21 23:03:53,315    trend_only_2x    equity $ 1,164.57  exposure $     -775  
+2026-11-21 23:03:53,316    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-21 23:03:53,316    volume_vol_2x    equity $ 1,006.09  exposure $     +948  
+2026-11-21 23:03:53,316    dist_ma20_2x     equity $   943.02  exposure $      -34  
+2026-11-22 03:02:27,934 paper trader started: 7 bots, BTC-USD
+2026-11-22 03:02:29,845 hour 2026-11-21 23:00 UTC  BTC $60,086
+2026-11-22 03:02:29,845    all_metrics_1x   equity $ 1,076.22  exposure $       -1  
+2026-11-22 03:02:29,845    all_metrics_2x   equity $ 1,154.40  exposure $       -6  
+2026-11-22 03:02:29,845    all_metrics_5x   equity $ 1,399.16  exposure $      -42  
+2026-11-22 03:02:29,845    trend_only_2x    equity $ 1,163.77  exposure $     -775  
+2026-11-22 03:02:29,845    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 03:02:29,845    volume_vol_2x    equity $ 1,007.10  exposure $     +948  
+2026-11-22 03:02:29,845    dist_ma20_2x     equity $   943.01  exposure $      -34  
+2026-11-22 03:02:29,877 hour 2026-11-22 00:00 UTC  BTC $60,075
+2026-11-22 03:02:29,877    all_metrics_1x   equity $ 1,076.22  exposure $       -1  no trade
+2026-11-22 03:02:29,877    all_metrics_2x   equity $ 1,154.40  exposure $       -6  no trade
+2026-11-22 03:02:29,877    all_metrics_5x   equity $ 1,399.16  exposure $      -42  no trade
+2026-11-22 03:02:29,877    trend_only_2x    equity $ 1,163.91  exposure $     -775  no trade
+2026-11-22 03:02:29,877    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-22 03:02:29,877    volume_vol_2x    equity $ 1,006.93  exposure $     +948  no trade
+2026-11-22 03:02:29,877    dist_ma20_2x     equity $   942.64  exposure $     -340  no trade
+2026-11-22 03:02:29,882 hour 2026-11-22 01:00 UTC  BTC $59,980
+2026-11-22 03:02:29,882    all_metrics_1x   equity $ 1,076.21  exposure $       -1  
+2026-11-22 03:02:29,882    all_metrics_2x   equity $ 1,154.38  exposure $       -6  
+2026-11-22 03:02:29,882    all_metrics_5x   equity $ 1,399.15  exposure $      -42  
+2026-11-22 03:02:29,882    trend_only_2x    equity $ 1,165.13  exposure $     -775  
+2026-11-22 03:02:29,882    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 03:02:29,882    volume_vol_2x    equity $ 1,005.36  exposure $     +948  
+2026-11-22 03:02:29,882    dist_ma20_2x     equity $   943.15  exposure $     -340  
+2026-11-22 03:02:29,885 hour 2026-11-22 02:00 UTC  BTC $59,353
+2026-11-22 03:02:29,885    all_metrics_1x   equity $ 1,076.14  exposure $       -1  
+2026-11-22 03:02:29,885    all_metrics_2x   equity $ 1,154.26  exposure $       -6  
+2026-11-22 03:02:29,885    all_metrics_5x   equity $ 1,399.06  exposure $      -42  
+2026-11-22 03:02:29,885    trend_only_2x    equity $ 1,173.22  exposure $     -775  
+2026-11-22 03:02:29,885    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 03:02:29,885    volume_vol_2x    equity $   995.04  exposure $     +948  
+2026-11-22 03:02:29,885    dist_ma20_2x     equity $   946.49  exposure $     -340  
+2026-11-22 11:08:37,898 paper trader started: 7 bots, BTC-USD
+2026-11-22 11:08:39,594 hour 2026-11-22 03:00 UTC  BTC $59,226
+2026-11-22 11:08:39,594    all_metrics_1x   equity $ 1,076.13  exposure $       -1  
+2026-11-22 11:08:39,594    all_metrics_2x   equity $ 1,154.24  exposure $       -6  
+2026-11-22 11:08:39,594    all_metrics_5x   equity $ 1,399.05  exposure $      -42  
+2026-11-22 11:08:39,594    trend_only_2x    equity $ 1,174.85  exposure $     -775  
+2026-11-22 11:08:39,594    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 11:08:39,594    volume_vol_2x    equity $   992.94  exposure $     +948  
+2026-11-22 11:08:39,594    dist_ma20_2x     equity $   947.16  exposure $     -340  
+2026-11-22 11:08:39,635 hour 2026-11-22 04:00 UTC  BTC $59,182
+2026-11-22 11:08:39,635    all_metrics_1x   equity $ 1,076.09  exposure $     -181  OPEN SHORT
+2026-11-22 11:08:39,635    all_metrics_2x   equity $ 1,154.16  exposure $     -390  OPEN SHORT
+2026-11-22 11:08:39,635    all_metrics_5x   equity $ 1,398.81  exposure $   -1,208  OPEN SHORT
+2026-11-22 11:08:39,636    trend_only_2x    equity $ 1,175.35  exposure $   -1,167  OPEN SHORT
+2026-11-22 11:08:39,636    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-22 11:08:39,636    volume_vol_2x    equity $   991.83  exposure $     +640  no trade
+2026-11-22 11:08:39,636    dist_ma20_2x     equity $   947.04  exposure $     -628  no trade
+2026-11-22 11:08:39,641 hour 2026-11-22 05:00 UTC  BTC $58,788
+2026-11-22 11:08:39,641    all_metrics_1x   equity $ 1,077.24  exposure $     -181  
+2026-11-22 11:08:39,641    all_metrics_2x   equity $ 1,156.64  exposure $     -390  
+2026-11-22 11:08:39,641    all_metrics_5x   equity $ 1,406.51  exposure $   -1,208  
+2026-11-22 11:08:39,641    trend_only_2x    equity $ 1,183.03  exposure $   -1,167  
+2026-11-22 11:08:39,641    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 11:08:39,641    volume_vol_2x    equity $   987.50  exposure $     +640  
+2026-11-22 11:08:39,641    dist_ma20_2x     equity $   951.15  exposure $     -628  
+2026-11-22 11:08:39,645 hour 2026-11-22 06:00 UTC  BTC $59,024
+2026-11-22 11:08:39,645    all_metrics_1x   equity $ 1,076.55  exposure $     -181  
+2026-11-22 11:08:39,645    all_metrics_2x   equity $ 1,155.15  exposure $     -390  
+2026-11-22 11:08:39,645    all_metrics_5x   equity $ 1,401.89  exposure $   -1,208  
+2026-11-22 11:08:39,645    trend_only_2x    equity $ 1,178.43  exposure $   -1,167  
+2026-11-22 11:08:39,645    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 11:08:39,645    volume_vol_2x    equity $   990.10  exposure $     +640  
+2026-11-22 11:08:39,645    dist_ma20_2x     equity $   948.69  exposure $     -628  
+2026-11-22 11:08:39,649 hour 2026-11-22 07:00 UTC  BTC $59,053
+2026-11-22 11:08:39,649    all_metrics_1x   equity $ 1,076.46  exposure $     -181  
+2026-11-22 11:08:39,649    all_metrics_2x   equity $ 1,154.97  exposure $     -390  
+2026-11-22 11:08:39,649    all_metrics_5x   equity $ 1,401.33  exposure $   -1,208  
+2026-11-22 11:08:39,649    trend_only_2x    equity $ 1,177.86  exposure $   -1,167  
+2026-11-22 11:08:39,650    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 11:08:39,650    volume_vol_2x    equity $   990.41  exposure $     +640  
+2026-11-22 11:08:39,650    dist_ma20_2x     equity $   948.39  exposure $     -628  
+2026-11-22 11:08:39,688 hour 2026-11-22 08:00 UTC  BTC $59,694
+2026-11-22 11:08:39,688    all_metrics_1x   equity $ 1,074.37  exposure $     -359  no trade
+2026-11-22 11:08:39,688    all_metrics_2x   equity $ 1,150.46  exposure $     -770  no trade
+2026-11-22 11:08:39,688    all_metrics_5x   equity $ 1,387.41  exposure $   -2,332  no trade
+2026-11-22 11:08:39,688    trend_only_2x    equity $ 1,165.28  exposure $   -1,555  OPEN SHORT
+2026-11-22 11:08:39,688    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-22 11:08:39,688    volume_vol_2x    equity $   997.07  exposure $     +324  no trade
+2026-11-22 11:08:39,688    dist_ma20_2x     equity $   941.70  exposure $     -628  no trade
+2026-11-22 11:08:39,693 hour 2026-11-22 09:00 UTC  BTC $61,027
+2026-11-22 11:08:39,693    all_metrics_1x   equity $ 1,066.36  exposure $     -359  
+2026-11-22 11:08:39,693    all_metrics_2x   equity $ 1,133.28  exposure $     -770  
+2026-11-22 11:08:39,693    all_metrics_5x   equity $ 1,335.36  exposure $   -2,332  
+2026-11-22 11:08:39,693    trend_only_2x    equity $ 1,130.59  exposure $   -1,555  
+2026-11-22 11:08:39,693    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 11:08:39,693    volume_vol_2x    equity $ 1,004.42  exposure $     +324  
+2026-11-22 11:08:39,693    dist_ma20_2x     equity $   927.78  exposure $     -628  
+2026-11-22 11:08:39,697 hour 2026-11-22 10:00 UTC  BTC $60,772
+2026-11-22 11:08:39,697    all_metrics_1x   equity $ 1,067.90  exposure $     -359  
+2026-11-22 11:08:39,697    all_metrics_2x   equity $ 1,136.57  exposure $     -770  
+2026-11-22 11:08:39,697    all_metrics_5x   equity $ 1,345.33  exposure $   -2,332  
+2026-11-22 11:08:39,697    trend_only_2x    equity $ 1,137.23  exposure $   -1,555  
+2026-11-22 11:08:39,697    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 11:08:39,697    volume_vol_2x    equity $ 1,003.01  exposure $     +324  
+2026-11-22 11:08:39,697    dist_ma20_2x     equity $   930.45  exposure $     -628  
+2026-11-22 19:27:30,961 paper trader started: 7 bots, BTC-USD
+2026-11-22 19:27:32,845 hour 2026-11-22 11:00 UTC  BTC $60,958
+2026-11-22 19:27:32,846    all_metrics_1x   equity $ 1,066.78  exposure $     -359  
+2026-11-22 19:27:32,846    all_metrics_2x   equity $ 1,134.16  exposure $     -770  
+2026-11-22 19:27:32,846    all_metrics_5x   equity $ 1,338.04  exposure $   -2,332  
+2026-11-22 19:27:32,846    trend_only_2x    equity $ 1,132.38  exposure $   -1,555  
+2026-11-22 19:27:32,846    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 19:27:32,846    volume_vol_2x    equity $ 1,004.04  exposure $     +324  
+2026-11-22 19:27:32,846    dist_ma20_2x     equity $   928.50  exposure $     -628  
+2026-11-22 19:27:32,896 hour 2026-11-22 12:00 UTC  BTC $60,752
+2026-11-22 19:27:32,896    all_metrics_1x   equity $ 1,068.01  exposure $     -359  no trade
+2026-11-22 19:27:32,896    all_metrics_2x   equity $ 1,136.82  exposure $     -770  no trade
+2026-11-22 19:27:32,896    all_metrics_5x   equity $ 1,346.09  exposure $   -2,332  no trade
+2026-11-22 19:27:32,896    trend_only_2x    equity $ 1,137.66  exposure $   -1,934  OPEN SHORT
+2026-11-22 19:27:32,896    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-22 19:27:32,896    volume_vol_2x    equity $ 1,002.51  exposure $       +0  no trade
+2026-11-22 19:27:32,897    dist_ma20_2x     equity $   930.65  exposure $     -628  no trade
+2026-11-22 19:27:32,900 hour 2026-11-22 13:00 UTC  BTC $60,652
+2026-11-22 19:27:32,900    all_metrics_1x   equity $ 1,068.62  exposure $     -359  
+2026-11-22 19:27:32,900    all_metrics_2x   equity $ 1,138.11  exposure $     -770  
+2026-11-22 19:27:32,901    all_metrics_5x   equity $ 1,350.00  exposure $   -2,332  
+2026-11-22 19:27:32,901    trend_only_2x    equity $ 1,140.90  exposure $   -1,934  
+2026-11-22 19:27:32,901    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 19:27:32,901    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-22 19:27:32,901    dist_ma20_2x     equity $   931.69  exposure $     -628  
+2026-11-22 19:27:32,904 hour 2026-11-22 14:00 UTC  BTC $60,841
+2026-11-22 19:27:32,904    all_metrics_1x   equity $ 1,067.48  exposure $     -359  
+2026-11-22 19:27:32,904    all_metrics_2x   equity $ 1,135.68  exposure $     -770  
+2026-11-22 19:27:32,904    all_metrics_5x   equity $ 1,342.62  exposure $   -2,332  
+2026-11-22 19:27:32,904    trend_only_2x    equity $ 1,134.80  exposure $   -1,934  
+2026-11-22 19:27:32,904    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 19:27:32,904    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-22 19:27:32,905    dist_ma20_2x     equity $   929.72  exposure $     -628  
+2026-11-22 19:27:32,908 hour 2026-11-22 15:00 UTC  BTC $60,799
+2026-11-22 19:27:32,908    all_metrics_1x   equity $ 1,067.73  exposure $     -359  
+2026-11-22 19:27:32,908    all_metrics_2x   equity $ 1,136.21  exposure $     -770  
+2026-11-22 19:27:32,908    all_metrics_5x   equity $ 1,344.25  exposure $   -2,332  
+2026-11-22 19:27:32,908    trend_only_2x    equity $ 1,136.15  exposure $   -1,934  
+2026-11-22 19:27:32,908    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 19:27:32,908    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-22 19:27:32,908    dist_ma20_2x     equity $   930.16  exposure $     -628  
+2026-11-22 19:27:32,957 hour 2026-11-22 16:00 UTC  BTC $61,168
+2026-11-22 19:27:32,957    all_metrics_1x   equity $ 1,065.52  exposure $     -359  no trade
+2026-11-22 19:27:32,957    all_metrics_2x   equity $ 1,131.47  exposure $     -770  no trade
+2026-11-22 19:27:32,957    all_metrics_5x   equity $ 1,329.87  exposure $   -2,332  no trade
+2026-11-22 19:27:32,957    trend_only_2x    equity $ 1,123.79  exposure $   -1,546  no trade
+2026-11-22 19:27:32,957    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-22 19:27:32,957    volume_vol_2x    equity $ 1,002.51  exposure $       +0  no trade
+2026-11-22 19:27:32,957    dist_ma20_2x     equity $   925.87  exposure $     -623  OPEN SHORT
+2026-11-22 19:27:32,961 hour 2026-11-22 17:00 UTC  BTC $60,740
+2026-11-22 19:27:32,961    all_metrics_1x   equity $ 1,068.09  exposure $     -359  
+2026-11-22 19:27:32,961    all_metrics_2x   equity $ 1,136.97  exposure $     -770  
+2026-11-22 19:27:32,961    all_metrics_5x   equity $ 1,346.55  exposure $   -2,332  
+2026-11-22 19:27:32,961    trend_only_2x    equity $ 1,134.81  exposure $   -1,546  
+2026-11-22 19:27:32,961    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 19:27:32,961    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-22 19:27:32,961    dist_ma20_2x     equity $   930.25  exposure $     -623  
+2026-11-22 19:27:32,964 hour 2026-11-22 18:00 UTC  BTC $60,668
+2026-11-22 19:27:32,964    all_metrics_1x   equity $ 1,068.52  exposure $     -359  
+2026-11-22 19:27:32,964    all_metrics_2x   equity $ 1,137.91  exposure $     -770  
+2026-11-22 19:27:32,964    all_metrics_5x   equity $ 1,349.39  exposure $   -2,332  
+2026-11-22 19:27:32,964    trend_only_2x    equity $ 1,136.69  exposure $   -1,546  
+2026-11-22 19:27:32,965    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-22 19:27:32,965    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-22 19:27:32,965    dist_ma20_2x     equity $   931.00  exposure $     -623  
+2026-11-23 00:45:48,669 paper trader started: 7 bots, BTC-USD
+2026-11-23 00:45:50,438 hour 2026-11-22 19:00 UTC  BTC $60,636
+2026-11-23 00:45:50,438    all_metrics_1x   equity $ 1,068.71  exposure $     -359  
+2026-11-23 00:45:50,438    all_metrics_2x   equity $ 1,138.32  exposure $     -770  
+2026-11-23 00:45:50,439    all_metrics_5x   equity $ 1,350.64  exposure $   -2,332  
+2026-11-23 00:45:50,439    trend_only_2x    equity $ 1,137.51  exposure $   -1,546  
+2026-11-23 00:45:50,439    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 00:45:50,439    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 00:45:50,439    dist_ma20_2x     equity $   931.33  exposure $     -623  
+2026-11-23 00:45:50,488 hour 2026-11-22 20:00 UTC  BTC $60,822
+2026-11-23 00:45:50,488    all_metrics_1x   equity $ 1,067.38  exposure $     -179  no trade
+2026-11-23 00:45:50,488    all_metrics_2x   equity $ 1,135.45  exposure $     -385  no trade
+2026-11-23 00:45:50,488    all_metrics_5x   equity $ 1,341.95  exposure $   -1,166  no trade
+2026-11-23 00:45:50,488    trend_only_2x    equity $ 1,132.23  exposure $   -1,160  no trade
+2026-11-23 00:45:50,488    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-23 00:45:50,488    volume_vol_2x    equity $ 1,002.51  exposure $       +0  no trade
+2026-11-23 00:45:50,488    dist_ma20_2x     equity $   929.03  exposure $     -309  no trade
+2026-11-23 00:45:50,492 hour 2026-11-22 21:00 UTC  BTC $60,846
+2026-11-23 00:45:50,492    all_metrics_1x   equity $ 1,067.31  exposure $     -179  
+2026-11-23 00:45:50,492    all_metrics_2x   equity $ 1,135.30  exposure $     -385  
+2026-11-23 00:45:50,492    all_metrics_5x   equity $ 1,341.48  exposure $   -1,166  
+2026-11-23 00:45:50,492    trend_only_2x    equity $ 1,131.77  exposure $   -1,160  
+2026-11-23 00:45:50,492    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 00:45:50,492    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 00:45:50,492    dist_ma20_2x     equity $   928.91  exposure $     -309  
+2026-11-23 00:45:50,496 hour 2026-11-22 22:00 UTC  BTC $61,002
+2026-11-23 00:45:50,496    all_metrics_1x   equity $ 1,066.83  exposure $     -179  
+2026-11-23 00:45:50,496    all_metrics_2x   equity $ 1,134.29  exposure $     -385  
+2026-11-23 00:45:50,496    all_metrics_5x   equity $ 1,338.41  exposure $   -1,166  
+2026-11-23 00:45:50,496    trend_only_2x    equity $ 1,128.76  exposure $   -1,160  
+2026-11-23 00:45:50,496    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 00:45:50,496    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 00:45:50,496    dist_ma20_2x     equity $   928.13  exposure $     -309  
+2026-11-23 00:45:50,501 hour 2026-11-22 23:00 UTC  BTC $61,163
+2026-11-23 00:45:50,501    all_metrics_1x   equity $ 1,066.35  exposure $     -179  
+2026-11-23 00:45:50,501    all_metrics_2x   equity $ 1,133.24  exposure $     -385  
+2026-11-23 00:45:50,501    all_metrics_5x   equity $ 1,335.23  exposure $   -1,166  
+2026-11-23 00:45:50,501    trend_only_2x    equity $ 1,125.63  exposure $   -1,160  
+2026-11-23 00:45:50,501    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 00:45:50,501    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 00:45:50,501    dist_ma20_2x     equity $   927.31  exposure $     -309  
+2026-11-23 08:54:25,060 paper trader started: 7 bots, BTC-USD
+2026-11-23 08:54:26,466 hour 2026-11-23 00:00 UTC  BTC $61,249
+2026-11-23 08:54:26,467    all_metrics_1x   equity $ 1,066.08  exposure $     -179  no trade
+2026-11-23 08:54:26,467    all_metrics_2x   equity $ 1,132.68  exposure $     -385  no trade
+2026-11-23 08:54:26,467    all_metrics_5x   equity $ 1,333.54  exposure $   -1,166  no trade
+2026-11-23 08:54:26,467    trend_only_2x    equity $ 1,123.96  exposure $   -1,160  no trade
+2026-11-23 08:54:26,467    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-23 08:54:26,467    volume_vol_2x    equity $ 1,002.51  exposure $       +0  no trade
+2026-11-23 08:54:26,467    dist_ma20_2x     equity $   926.88  exposure $     -309  no trade
+2026-11-23 08:54:26,469 hour 2026-11-23 01:00 UTC  BTC $60,768
+2026-11-23 08:54:26,469    all_metrics_1x   equity $ 1,067.54  exposure $     -179  
+2026-11-23 08:54:26,469    all_metrics_2x   equity $ 1,135.81  exposure $     -385  
+2026-11-23 08:54:26,469    all_metrics_5x   equity $ 1,343.02  exposure $   -1,166  
+2026-11-23 08:54:26,469    trend_only_2x    equity $ 1,133.29  exposure $   -1,160  
+2026-11-23 08:54:26,469    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 08:54:26,469    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 08:54:26,469    dist_ma20_2x     equity $   929.31  exposure $     -309  
+2026-11-23 08:54:26,472 hour 2026-11-23 02:00 UTC  BTC $60,517
+2026-11-23 08:54:26,472    all_metrics_1x   equity $ 1,068.30  exposure $     -179  
+2026-11-23 08:54:26,472    all_metrics_2x   equity $ 1,137.44  exposure $     -385  
+2026-11-23 08:54:26,472    all_metrics_5x   equity $ 1,347.96  exposure $   -1,166  
+2026-11-23 08:54:26,472    trend_only_2x    equity $ 1,138.15  exposure $   -1,160  
+2026-11-23 08:54:26,472    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 08:54:26,472    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 08:54:26,472    dist_ma20_2x     equity $   930.58  exposure $     -309  
+2026-11-23 08:54:26,474 hour 2026-11-23 03:00 UTC  BTC $61,191
+2026-11-23 08:54:26,474    all_metrics_1x   equity $ 1,066.26  exposure $     -179  
+2026-11-23 08:54:26,474    all_metrics_2x   equity $ 1,133.06  exposure $     -385  
+2026-11-23 08:54:26,474    all_metrics_5x   equity $ 1,334.69  exposure $   -1,166  
+2026-11-23 08:54:26,474    trend_only_2x    equity $ 1,125.09  exposure $   -1,160  
+2026-11-23 08:54:26,474    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 08:54:26,474    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 08:54:26,474    dist_ma20_2x     equity $   927.17  exposure $     -309  
+2026-11-23 08:54:26,501 hour 2026-11-23 04:00 UTC  BTC $61,155
+2026-11-23 08:54:26,501    all_metrics_1x   equity $ 1,066.12  exposure $     -178  OPEN SHORT
+2026-11-23 08:54:26,501    all_metrics_2x   equity $ 1,132.75  exposure $     -378  OPEN SHORT
+2026-11-23 08:54:26,501    all_metrics_5x   equity $ 1,333.75  exposure $   -1,112  OPEN SHORT
+2026-11-23 08:54:26,502    trend_only_2x    equity $ 1,125.24  exposure $   -1,143  OPEN SHORT
+2026-11-23 08:54:26,502    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-23 08:54:26,502    volume_vol_2x    equity $ 1,002.51  exposure $       +0  no trade
+2026-11-23 08:54:26,502    dist_ma20_2x     equity $   927.36  exposure $     -309  no trade
+2026-11-23 08:54:26,504 hour 2026-11-23 05:00 UTC  BTC $61,596
+2026-11-23 08:54:26,504    all_metrics_1x   equity $ 1,064.83  exposure $     -178  
+2026-11-23 08:54:26,504    all_metrics_2x   equity $ 1,130.02  exposure $     -378  
+2026-11-23 08:54:26,504    all_metrics_5x   equity $ 1,325.71  exposure $   -1,112  
+2026-11-23 08:54:26,504    trend_only_2x    equity $ 1,116.89  exposure $   -1,143  
+2026-11-23 08:54:26,504    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 08:54:26,504    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 08:54:26,504    dist_ma20_2x     equity $   925.13  exposure $     -309  
+2026-11-23 08:54:26,506 hour 2026-11-23 06:00 UTC  BTC $61,375
+2026-11-23 08:54:26,506    all_metrics_1x   equity $ 1,065.47  exposure $     -178  
+2026-11-23 08:54:26,506    all_metrics_2x   equity $ 1,131.38  exposure $     -378  
+2026-11-23 08:54:26,506    all_metrics_5x   equity $ 1,329.74  exposure $   -1,112  
+2026-11-23 08:54:26,507    trend_only_2x    equity $ 1,121.07  exposure $   -1,143  
+2026-11-23 08:54:26,507    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 08:54:26,507    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 08:54:26,507    dist_ma20_2x     equity $   926.24  exposure $     -309  
+2026-11-23 08:54:26,509 hour 2026-11-23 07:00 UTC  BTC $61,375
+2026-11-23 08:54:26,509    all_metrics_1x   equity $ 1,065.48  exposure $     -178  
+2026-11-23 08:54:26,509    all_metrics_2x   equity $ 1,131.39  exposure $     -378  
+2026-11-23 08:54:26,509    all_metrics_5x   equity $ 1,329.75  exposure $   -1,112  
+2026-11-23 08:54:26,509    trend_only_2x    equity $ 1,121.09  exposure $   -1,143  
+2026-11-23 08:54:26,509    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 08:54:26,509    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 08:54:26,509    dist_ma20_2x     equity $   926.25  exposure $     -309  
+2026-11-23 21:13:26,189 paper trader started: 7 bots, BTC-USD
+2026-11-23 21:13:27,678 hour 2026-11-23 08:00 UTC  BTC $61,413
+2026-11-23 21:13:27,678    all_metrics_1x   equity $ 1,065.37  exposure $     -178  no trade
+2026-11-23 21:13:27,678    all_metrics_2x   equity $ 1,131.15  exposure $     -378  no trade
+2026-11-23 21:13:27,678    all_metrics_5x   equity $ 1,329.05  exposure $   -1,112  no trade
+2026-11-23 21:13:27,679    trend_only_2x    equity $ 1,119.89  exposure $     -754  no trade
+2026-11-23 21:13:27,679    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-23 21:13:27,679    volume_vol_2x    equity $ 1,002.51  exposure $       +0  no trade
+2026-11-23 21:13:27,679    dist_ma20_2x     equity $   926.05  exposure $     -309  no trade
+2026-11-23 21:13:27,682 hour 2026-11-23 09:00 UTC  BTC $61,361
+2026-11-23 21:13:27,682    all_metrics_1x   equity $ 1,065.51  exposure $     -178  
+2026-11-23 21:13:27,682    all_metrics_2x   equity $ 1,131.47  exposure $     -378  
+2026-11-23 21:13:27,683    all_metrics_5x   equity $ 1,329.99  exposure $   -1,112  
+2026-11-23 21:13:27,683    trend_only_2x    equity $ 1,120.53  exposure $     -754  
+2026-11-23 21:13:27,683    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 21:13:27,683    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 21:13:27,683    dist_ma20_2x     equity $   926.31  exposure $     -309  
+2026-11-23 21:13:27,686 hour 2026-11-23 10:00 UTC  BTC $61,351
+2026-11-23 21:13:27,686    all_metrics_1x   equity $ 1,065.54  exposure $     -178  
+2026-11-23 21:13:27,686    all_metrics_2x   equity $ 1,131.53  exposure $     -378  
+2026-11-23 21:13:27,686    all_metrics_5x   equity $ 1,330.17  exposure $   -1,112  
+2026-11-23 21:13:27,686    trend_only_2x    equity $ 1,120.65  exposure $     -754  
+2026-11-23 21:13:27,686    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 21:13:27,686    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 21:13:27,686    dist_ma20_2x     equity $   926.36  exposure $     -309  
+2026-11-23 21:13:27,689 hour 2026-11-23 11:00 UTC  BTC $61,347
+2026-11-23 21:13:27,689    all_metrics_1x   equity $ 1,065.56  exposure $     -178  
+2026-11-23 21:13:27,690    all_metrics_2x   equity $ 1,131.56  exposure $     -378  
+2026-11-23 21:13:27,690    all_metrics_5x   equity $ 1,330.24  exposure $   -1,112  
+2026-11-23 21:13:27,690    trend_only_2x    equity $ 1,120.70  exposure $     -754  
+2026-11-23 21:13:27,690    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 21:13:27,690    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 21:13:27,690    dist_ma20_2x     equity $   926.38  exposure $     -309  
+2026-11-23 21:13:27,734 hour 2026-11-23 12:00 UTC  BTC $61,253
+2026-11-23 21:13:27,734    all_metrics_1x   equity $ 1,065.83  exposure $     -178  no trade
+2026-11-23 21:13:27,734    all_metrics_2x   equity $ 1,132.14  exposure $     -378  no trade
+2026-11-23 21:13:27,734    all_metrics_5x   equity $ 1,331.95  exposure $   -1,112  no trade
+2026-11-23 21:13:27,734    trend_only_2x    equity $ 1,121.40  exposure $     -375  no trade
+2026-11-23 21:13:27,734    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-23 21:13:27,734    volume_vol_2x    equity $ 1,002.51  exposure $       +0  no trade
+2026-11-23 21:13:27,734    dist_ma20_2x     equity $   926.86  exposure $     -309  no trade
+2026-11-23 21:13:27,739 hour 2026-11-23 13:00 UTC  BTC $63,785
+2026-11-23 21:13:27,739    all_metrics_1x   equity $ 1,058.47  exposure $     -178  
+2026-11-23 21:13:27,739    all_metrics_2x   equity $ 1,116.50  exposure $     -378  
+2026-11-23 21:13:27,739    all_metrics_5x   equity $ 1,285.92  exposure $   -1,112  
+2026-11-23 21:13:27,739    trend_only_2x    equity $ 1,105.87  exposure $     -375  
+2026-11-23 21:13:27,739    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 21:13:27,739    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 21:13:27,739    dist_ma20_2x     equity $   914.08  exposure $     -309  
+2026-11-23 21:13:27,743 hour 2026-11-23 14:00 UTC  BTC $62,823
+2026-11-23 21:13:27,743    all_metrics_1x   equity $ 1,061.27  exposure $     -178  
+2026-11-23 21:13:27,743    all_metrics_2x   equity $ 1,122.45  exposure $     -378  
+2026-11-23 21:13:27,743    all_metrics_5x   equity $ 1,303.42  exposure $   -1,112  
+2026-11-23 21:13:27,743    trend_only_2x    equity $ 1,111.78  exposure $     -375  
+2026-11-23 21:13:27,743    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 21:13:27,743    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 21:13:27,743    dist_ma20_2x     equity $   918.94  exposure $     -309  
+2026-11-23 21:13:27,746 hour 2026-11-23 15:00 UTC  BTC $62,823
+2026-11-23 21:13:27,747    all_metrics_1x   equity $ 1,061.27  exposure $     -178  
+2026-11-23 21:13:27,747    all_metrics_2x   equity $ 1,122.44  exposure $     -378  
+2026-11-23 21:13:27,747    all_metrics_5x   equity $ 1,303.42  exposure $   -1,112  
+2026-11-23 21:13:27,747    trend_only_2x    equity $ 1,111.78  exposure $     -375  
+2026-11-23 21:13:27,747    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 21:13:27,747    volume_vol_2x    equity $ 1,002.51  exposure $       +0  
+2026-11-23 21:13:27,747    dist_ma20_2x     equity $   918.94  exposure $     -309  
+2026-11-23 21:13:27,789 hour 2026-11-23 16:00 UTC  BTC $62,181
+2026-11-23 21:13:27,789    all_metrics_1x   equity $ 1,063.13  exposure $     -178  no trade
+2026-11-23 21:13:27,790    all_metrics_2x   equity $ 1,126.41  exposure $     -378  no trade
+2026-11-23 21:13:27,790    all_metrics_5x   equity $ 1,315.09  exposure $   -1,112  no trade
+2026-11-23 21:13:27,790    trend_only_2x    equity $ 1,115.72  exposure $     -375  no trade
+2026-11-23 21:13:27,790    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-23 21:13:27,790    volume_vol_2x    equity $ 1,002.44  exposure $     +334  OPEN LONG
+2026-11-23 21:13:27,790    dist_ma20_2x     equity $   921.80  exposure $       +0  no trade
+2026-11-23 21:13:27,793 hour 2026-11-23 17:00 UTC  BTC $61,602
+2026-11-23 21:13:27,793    all_metrics_1x   equity $ 1,064.81  exposure $     -178  
+2026-11-23 21:13:27,793    all_metrics_2x   equity $ 1,129.98  exposure $     -378  
+2026-11-23 21:13:27,793    all_metrics_5x   equity $ 1,325.61  exposure $   -1,112  
+2026-11-23 21:13:27,793    trend_only_2x    equity $ 1,119.26  exposure $     -375  
+2026-11-23 21:13:27,793    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 21:13:27,793    volume_vol_2x    equity $   999.33  exposure $     +334  
+2026-11-23 21:13:27,793    dist_ma20_2x     equity $   921.80  exposure $       +0  
+2026-11-23 21:13:27,796 hour 2026-11-23 18:00 UTC  BTC $61,311
+2026-11-23 21:13:27,796    all_metrics_1x   equity $ 1,065.66  exposure $     -178  
+2026-11-23 21:13:27,796    all_metrics_2x   equity $ 1,131.78  exposure $     -378  
+2026-11-23 21:13:27,796    all_metrics_5x   equity $ 1,330.90  exposure $   -1,112  
+2026-11-23 21:13:27,796    trend_only_2x    equity $ 1,121.05  exposure $     -375  
+2026-11-23 21:13:27,796    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 21:13:27,796    volume_vol_2x    equity $   997.77  exposure $     +334  
+2026-11-23 21:13:27,796    dist_ma20_2x     equity $   921.80  exposure $       +0  
+2026-11-23 21:13:27,799 hour 2026-11-23 19:00 UTC  BTC $61,191
+2026-11-23 21:13:27,799    all_metrics_1x   equity $ 1,066.01  exposure $     -178  
+2026-11-23 21:13:27,799    all_metrics_2x   equity $ 1,132.52  exposure $     -378  
+2026-11-23 21:13:27,799    all_metrics_5x   equity $ 1,333.09  exposure $   -1,112  
+2026-11-23 21:13:27,799    trend_only_2x    equity $ 1,121.79  exposure $     -375  
+2026-11-23 21:13:27,799    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-23 21:13:27,800    volume_vol_2x    equity $   997.12  exposure $     +334  
+2026-11-23 21:13:27,800    dist_ma20_2x     equity $   921.80  exposure $       +0  
+2026-11-23 21:13:27,842 hour 2026-11-23 20:00 UTC  BTC $61,167
+2026-11-23 21:13:27,842    all_metrics_1x   equity $ 1,066.08  exposure $     -178  no trade
+2026-11-23 21:13:27,842    all_metrics_2x   equity $ 1,132.67  exposure $     -378  no trade
+2026-11-23 21:13:27,842    all_metrics_5x   equity $ 1,333.52  exposure $   -1,112  no trade
+2026-11-23 21:13:27,842    trend_only_2x    equity $ 1,121.93  exposure $     -375  no trade
+2026-11-23 21:13:27,842    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-23 21:13:27,842    volume_vol_2x    equity $   996.93  exposure $     +667  OPEN LONG
+2026-11-23 21:13:27,842    dist_ma20_2x     equity $   921.80  exposure $       +0  no trade
+2026-11-24 05:54:59,066 paper trader started: 7 bots, BTC-USD
+2026-11-24 05:55:00,454 hour 2026-11-23 21:00 UTC  BTC $61,262
+2026-11-24 05:55:00,454    all_metrics_1x   equity $ 1,065.80  exposure $     -178  
+2026-11-24 05:55:00,454    all_metrics_2x   equity $ 1,132.08  exposure $     -378  
+2026-11-24 05:55:00,454    all_metrics_5x   equity $ 1,331.80  exposure $   -1,112  
+2026-11-24 05:55:00,454    trend_only_2x    equity $ 1,121.35  exposure $     -375  
+2026-11-24 05:55:00,454    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 05:55:00,454    volume_vol_2x    equity $   997.95  exposure $     +667  
+2026-11-24 05:55:00,454    dist_ma20_2x     equity $   921.80  exposure $       +0  
+2026-11-24 05:55:00,458 hour 2026-11-23 22:00 UTC  BTC $61,177
+2026-11-24 05:55:00,458    all_metrics_1x   equity $ 1,066.05  exposure $     -178  
+2026-11-24 05:55:00,458    all_metrics_2x   equity $ 1,132.61  exposure $     -378  
+2026-11-24 05:55:00,458    all_metrics_5x   equity $ 1,333.34  exposure $   -1,112  
+2026-11-24 05:55:00,458    trend_only_2x    equity $ 1,121.87  exposure $     -375  
+2026-11-24 05:55:00,458    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 05:55:00,458    volume_vol_2x    equity $   997.03  exposure $     +667  
+2026-11-24 05:55:00,458    dist_ma20_2x     equity $   921.80  exposure $       +0  
+2026-11-24 05:55:00,462 hour 2026-11-23 23:00 UTC  BTC $61,190
+2026-11-24 05:55:00,463    all_metrics_1x   equity $ 1,066.01  exposure $     -178  
+2026-11-24 05:55:00,463    all_metrics_2x   equity $ 1,132.53  exposure $     -378  
+2026-11-24 05:55:00,463    all_metrics_5x   equity $ 1,333.11  exposure $   -1,112  
+2026-11-24 05:55:00,463    trend_only_2x    equity $ 1,121.79  exposure $     -375  
+2026-11-24 05:55:00,463    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 05:55:00,463    volume_vol_2x    equity $   997.17  exposure $     +667  
+2026-11-24 05:55:00,463    dist_ma20_2x     equity $   921.80  exposure $       +0  
+2026-11-24 05:55:00,511 hour 2026-11-24 00:00 UTC  BTC $61,242
+2026-11-24 05:55:00,511    all_metrics_1x   equity $ 1,065.86  exposure $     -178  no trade
+2026-11-24 05:55:00,511    all_metrics_2x   equity $ 1,132.21  exposure $     -378  no trade
+2026-11-24 05:55:00,511    all_metrics_5x   equity $ 1,332.16  exposure $   -1,112  no trade
+2026-11-24 05:55:00,511    trend_only_2x    equity $ 1,121.48  exposure $     -375  no trade
+2026-11-24 05:55:00,511    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-24 05:55:00,511    volume_vol_2x    equity $   997.73  exposure $     +667  no trade
+2026-11-24 05:55:00,511    dist_ma20_2x     equity $   921.80  exposure $       +0  no trade
+2026-11-24 05:55:00,515 hour 2026-11-24 01:00 UTC  BTC $61,003
+2026-11-24 05:55:00,515    all_metrics_1x   equity $ 1,066.56  exposure $     -178  
+2026-11-24 05:55:00,515    all_metrics_2x   equity $ 1,133.68  exposure $     -378  
+2026-11-24 05:55:00,515    all_metrics_5x   equity $ 1,336.51  exposure $   -1,112  
+2026-11-24 05:55:00,515    trend_only_2x    equity $ 1,122.94  exposure $     -375  
+2026-11-24 05:55:00,515    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 05:55:00,515    volume_vol_2x    equity $   995.15  exposure $     +667  
+2026-11-24 05:55:00,515    dist_ma20_2x     equity $   921.80  exposure $       +0  
+2026-11-24 05:55:00,518 hour 2026-11-24 02:00 UTC  BTC $60,002
+2026-11-24 05:55:00,518    all_metrics_1x   equity $ 1,069.47  exposure $     -178  
+2026-11-24 05:55:00,518    all_metrics_2x   equity $ 1,139.87  exposure $     -378  
+2026-11-24 05:55:00,518    all_metrics_5x   equity $ 1,354.70  exposure $   -1,112  
+2026-11-24 05:55:00,518    trend_only_2x    equity $ 1,129.08  exposure $     -375  
+2026-11-24 05:55:00,518    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 05:55:00,519    volume_vol_2x    equity $   984.34  exposure $     +667  
+2026-11-24 05:55:00,519    dist_ma20_2x     equity $   921.80  exposure $       +0  
+2026-11-24 05:55:00,522 hour 2026-11-24 03:00 UTC  BTC $60,257
+2026-11-24 05:55:00,523    all_metrics_1x   equity $ 1,068.72  exposure $     -178  
+2026-11-24 05:55:00,523    all_metrics_2x   equity $ 1,138.29  exposure $     -378  
+2026-11-24 05:55:00,523    all_metrics_5x   equity $ 1,350.06  exposure $   -1,112  
+2026-11-24 05:55:00,523    trend_only_2x    equity $ 1,127.52  exposure $     -375  
+2026-11-24 05:55:00,523    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 05:55:00,523    volume_vol_2x    equity $   987.10  exposure $     +667  
+2026-11-24 05:55:00,523    dist_ma20_2x     equity $   921.80  exposure $       +0  
+2026-11-24 05:55:00,576 hour 2026-11-24 04:00 UTC  BTC $60,303
+2026-11-24 05:55:00,576    all_metrics_1x   equity $ 1,068.38  exposure $       +0  no trade
+2026-11-24 05:55:00,576    all_metrics_2x   equity $ 1,137.56  exposure $       +0  no trade
+2026-11-24 05:55:00,576    all_metrics_5x   equity $ 1,347.90  exposure $       +0  no trade
+2026-11-24 05:55:00,576    trend_only_2x    equity $ 1,126.79  exposure $       +0  no trade
+2026-11-24 05:55:00,576    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-24 05:55:00,577    volume_vol_2x    equity $   987.59  exposure $     +667  no trade
+2026-11-24 05:55:00,577    dist_ma20_2x     equity $   921.74  exposure $     +307  OPEN LONG
+2026-11-24 17:29:55,892 paper trader started: 7 bots, BTC-USD
+2026-11-24 17:29:57,473 hour 2026-11-24 05:00 UTC  BTC $60,556
+2026-11-24 17:29:57,473    all_metrics_1x   equity $ 1,068.38  exposure $       +0  
+2026-11-24 17:29:57,473    all_metrics_2x   equity $ 1,137.56  exposure $       +0  
+2026-11-24 17:29:57,473    all_metrics_5x   equity $ 1,347.90  exposure $       +0  
+2026-11-24 17:29:57,473    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-24 17:29:57,473    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 17:29:57,473    volume_vol_2x    equity $   990.33  exposure $     +667  
+2026-11-24 17:29:57,473    dist_ma20_2x     equity $   923.03  exposure $     +307  
+2026-11-24 17:29:57,477 hour 2026-11-24 06:00 UTC  BTC $60,397
+2026-11-24 17:29:57,477    all_metrics_1x   equity $ 1,068.38  exposure $       +0  
+2026-11-24 17:29:57,477    all_metrics_2x   equity $ 1,137.56  exposure $       +0  
+2026-11-24 17:29:57,478    all_metrics_5x   equity $ 1,347.90  exposure $       +0  
+2026-11-24 17:29:57,478    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-24 17:29:57,478    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 17:29:57,478    volume_vol_2x    equity $   988.60  exposure $     +667  
+2026-11-24 17:29:57,478    dist_ma20_2x     equity $   922.22  exposure $     +307  
+2026-11-24 17:29:57,481 hour 2026-11-24 07:00 UTC  BTC $60,360
+2026-11-24 17:29:57,482    all_metrics_1x   equity $ 1,068.38  exposure $       +0  
+2026-11-24 17:29:57,482    all_metrics_2x   equity $ 1,137.56  exposure $       +0  
+2026-11-24 17:29:57,482    all_metrics_5x   equity $ 1,347.90  exposure $       +0  
+2026-11-24 17:29:57,482    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-24 17:29:57,482    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 17:29:57,482    volume_vol_2x    equity $   988.21  exposure $     +667  
+2026-11-24 17:29:57,482    dist_ma20_2x     equity $   922.03  exposure $     +307  
+2026-11-24 17:29:57,532 hour 2026-11-24 08:00 UTC  BTC $60,178
+2026-11-24 17:29:57,532    all_metrics_1x   equity $ 1,068.38  exposure $       +0  no trade
+2026-11-24 17:29:57,532    all_metrics_2x   equity $ 1,137.56  exposure $       +0  no trade
+2026-11-24 17:29:57,532    all_metrics_5x   equity $ 1,347.90  exposure $       +0  no trade
+2026-11-24 17:29:57,532    trend_only_2x    equity $ 1,126.79  exposure $       +0  no trade
+2026-11-24 17:29:57,533    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-24 17:29:57,533    volume_vol_2x    equity $   986.24  exposure $     +667  no trade
+2026-11-24 17:29:57,533    dist_ma20_2x     equity $   921.04  exposure $     +614  OPEN LONG
+2026-11-24 17:29:57,536 hour 2026-11-24 09:00 UTC  BTC $59,909
+2026-11-24 17:29:57,536    all_metrics_1x   equity $ 1,068.38  exposure $       +0  
+2026-11-24 17:29:57,536    all_metrics_2x   equity $ 1,137.56  exposure $       +0  
+2026-11-24 17:29:57,536    all_metrics_5x   equity $ 1,347.90  exposure $       +0  
+2026-11-24 17:29:57,536    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-24 17:29:57,536    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 17:29:57,536    volume_vol_2x    equity $   983.33  exposure $     +667  
+2026-11-24 17:29:57,537    dist_ma20_2x     equity $   918.30  exposure $     +614  
+2026-11-24 17:29:57,540 hour 2026-11-24 10:00 UTC  BTC $59,710
+2026-11-24 17:29:57,540    all_metrics_1x   equity $ 1,068.38  exposure $       +0  
+2026-11-24 17:29:57,540    all_metrics_2x   equity $ 1,137.56  exposure $       +0  
+2026-11-24 17:29:57,540    all_metrics_5x   equity $ 1,347.90  exposure $       +0  
+2026-11-24 17:29:57,540    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-24 17:29:57,540    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 17:29:57,540    volume_vol_2x    equity $   981.18  exposure $     +667  
+2026-11-24 17:29:57,540    dist_ma20_2x     equity $   916.27  exposure $     +614  
+2026-11-24 17:29:57,543 hour 2026-11-24 11:00 UTC  BTC $60,347
+2026-11-24 17:29:57,543    all_metrics_1x   equity $ 1,068.38  exposure $       +0  
+2026-11-24 17:29:57,543    all_metrics_2x   equity $ 1,137.56  exposure $       +0  
+2026-11-24 17:29:57,544    all_metrics_5x   equity $ 1,347.90  exposure $       +0  
+2026-11-24 17:29:57,544    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-24 17:29:57,544    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 17:29:57,544    volume_vol_2x    equity $   988.06  exposure $     +667  
+2026-11-24 17:29:57,544    dist_ma20_2x     equity $   922.76  exposure $     +614  
+2026-11-24 17:29:57,592 hour 2026-11-24 12:00 UTC  BTC $60,413
+2026-11-24 17:29:57,592    all_metrics_1x   equity $ 1,068.38  exposure $       +0  no trade
+2026-11-24 17:29:57,592    all_metrics_2x   equity $ 1,137.56  exposure $       +0  no trade
+2026-11-24 17:29:57,592    all_metrics_5x   equity $ 1,347.90  exposure $       +0  no trade
+2026-11-24 17:29:57,592    trend_only_2x    equity $ 1,126.79  exposure $       +0  no trade
+2026-11-24 17:29:57,592    oscillators_2x   equity $   972.01  exposure $       +0  no trade
+2026-11-24 17:29:57,592    volume_vol_2x    equity $   988.78  exposure $     +667  no trade
+2026-11-24 17:29:57,592    dist_ma20_2x     equity $   923.44  exposure $     +614  no trade
+2026-11-24 17:29:57,595 hour 2026-11-24 13:00 UTC  BTC $59,944
+2026-11-24 17:29:57,596    all_metrics_1x   equity $ 1,068.38  exposure $       +0  
+2026-11-24 17:29:57,596    all_metrics_2x   equity $ 1,137.56  exposure $       +0  
+2026-11-24 17:29:57,596    all_metrics_5x   equity $ 1,347.90  exposure $       +0  
+2026-11-24 17:29:57,596    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-24 17:29:57,596    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 17:29:57,596    volume_vol_2x    equity $   983.71  exposure $     +667  
+2026-11-24 17:29:57,596    dist_ma20_2x     equity $   918.65  exposure $     +614  
+2026-11-24 17:29:57,599 hour 2026-11-24 14:00 UTC  BTC $60,370
+2026-11-24 17:29:57,599    all_metrics_1x   equity $ 1,068.38  exposure $       +0  
+2026-11-24 17:29:57,599    all_metrics_2x   equity $ 1,137.56  exposure $       +0  
+2026-11-24 17:29:57,599    all_metrics_5x   equity $ 1,347.90  exposure $       +0  
+2026-11-24 17:29:57,599    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-24 17:29:57,600    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 17:29:57,600    volume_vol_2x    equity $   988.31  exposure $     +667  
+2026-11-24 17:29:57,600    dist_ma20_2x     equity $   923.00  exposure $     +614  
+2026-11-24 17:29:57,607 hour 2026-11-24 15:00 UTC  BTC $59,643
+2026-11-24 17:29:57,607    all_metrics_1x   equity $ 1,068.38  exposure $       +0  
+2026-11-24 17:29:57,607    all_metrics_2x   equity $ 1,137.56  exposure $       +0  
+2026-11-24 17:29:57,607    all_metrics_5x   equity $ 1,347.90  exposure $       +0  
+2026-11-24 17:29:57,607    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-24 17:29:57,607    oscillators_2x   equity $   972.01  exposure $       +0  
+2026-11-24 17:29:57,607    volume_vol_2x    equity $   980.45  exposure $     +667  
+2026-11-24 17:29:57,607    dist_ma20_2x     equity $   915.58  exposure $     +614  
+2026-11-24 17:29:57,658 hour 2026-11-24 16:00 UTC  BTC $59,337
+2026-11-24 17:29:57,658    all_metrics_1x   equity $ 1,068.34  exposure $     +178  OPEN LONG
+2026-11-24 17:29:57,658    all_metrics_2x   equity $ 1,137.48  exposure $     +379  OPEN LONG
+2026-11-24 17:29:57,658    all_metrics_5x   equity $ 1,347.68  exposure $   +1,123  OPEN LONG
+2026-11-24 17:29:57,658    trend_only_2x    equity $ 1,126.79  exposure $       +0  no trade
+2026-11-24 17:29:57,658    oscillators_2x   equity $   971.94  exposure $     +324  OPEN LONG
+2026-11-24 17:29:57,658    volume_vol_2x    equity $   976.70  exposure $     +658  OPEN LONG
+2026-11-24 17:29:57,658    dist_ma20_2x     equity $   912.41  exposure $     +918  OPEN LONG
+2026-11-25 02:16:40,127 paper trader started: 7 bots, BTC-USD
+2026-11-25 02:16:42,004 hour 2026-11-24 17:00 UTC  BTC $60,031
+2026-11-25 02:16:42,005    all_metrics_1x   equity $ 1,070.43  exposure $     +178  
+2026-11-25 02:16:42,005    all_metrics_2x   equity $ 1,141.92  exposure $     +379  
+2026-11-25 02:16:42,005    all_metrics_5x   equity $ 1,360.82  exposure $   +1,123  
+2026-11-25 02:16:42,005    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 02:16:42,005    oscillators_2x   equity $   975.73  exposure $     +324  
+2026-11-25 02:16:42,005    volume_vol_2x    equity $   984.28  exposure $     +658  
+2026-11-25 02:16:42,005    dist_ma20_2x     equity $   923.05  exposure $     +918  
+2026-11-25 02:16:42,009 hour 2026-11-24 18:00 UTC  BTC $59,803
+2026-11-25 02:16:42,009    all_metrics_1x   equity $ 1,069.74  exposure $     +178  
+2026-11-25 02:16:42,009    all_metrics_2x   equity $ 1,140.46  exposure $     +379  
+2026-11-25 02:16:42,009    all_metrics_5x   equity $ 1,356.51  exposure $   +1,123  
+2026-11-25 02:16:42,009    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 02:16:42,009    oscillators_2x   equity $   974.49  exposure $     +324  
+2026-11-25 02:16:42,009    volume_vol_2x    equity $   981.79  exposure $     +658  
+2026-11-25 02:16:42,009    dist_ma20_2x     equity $   919.55  exposure $     +918  
+2026-11-25 02:16:42,013 hour 2026-11-24 19:00 UTC  BTC $59,597
+2026-11-25 02:16:42,013    all_metrics_1x   equity $ 1,069.12  exposure $     +178  
+2026-11-25 02:16:42,013    all_metrics_2x   equity $ 1,139.14  exposure $     +379  
+2026-11-25 02:16:42,013    all_metrics_5x   equity $ 1,352.60  exposure $   +1,123  
+2026-11-25 02:16:42,013    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 02:16:42,013    oscillators_2x   equity $   973.36  exposure $     +324  
+2026-11-25 02:16:42,013    volume_vol_2x    equity $   979.54  exposure $     +658  
+2026-11-25 02:16:42,013    dist_ma20_2x     equity $   916.39  exposure $     +918  
+2026-11-25 02:16:42,062 hour 2026-11-24 20:00 UTC  BTC $59,694
+2026-11-25 02:16:42,063    all_metrics_1x   equity $ 1,069.41  exposure $     +178  no trade
+2026-11-25 02:16:42,063    all_metrics_2x   equity $ 1,139.76  exposure $     +379  no trade
+2026-11-25 02:16:42,063    all_metrics_5x   equity $ 1,354.43  exposure $   +1,123  no trade
+2026-11-25 02:16:42,063    trend_only_2x    equity $ 1,126.79  exposure $       +0  no trade
+2026-11-25 02:16:42,063    oscillators_2x   equity $   973.83  exposure $     +649  OPEN LONG
+2026-11-25 02:16:42,063    volume_vol_2x    equity $   980.20  exposure $     +326  no trade
+2026-11-25 02:16:42,063    dist_ma20_2x     equity $   917.87  exposure $     +918  no trade
+2026-11-25 02:16:42,068 hour 2026-11-24 21:00 UTC  BTC $59,818
+2026-11-25 02:16:42,068    all_metrics_1x   equity $ 1,069.79  exposure $     +178  
+2026-11-25 02:16:42,068    all_metrics_2x   equity $ 1,140.55  exposure $     +379  
+2026-11-25 02:16:42,068    all_metrics_5x   equity $ 1,356.78  exposure $   +1,123  
+2026-11-25 02:16:42,068    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 02:16:42,068    oscillators_2x   equity $   975.18  exposure $     +649  
+2026-11-25 02:16:42,068    volume_vol_2x    equity $   980.88  exposure $     +326  
+2026-11-25 02:16:42,068    dist_ma20_2x     equity $   919.78  exposure $     +918  
+2026-11-25 02:16:42,072 hour 2026-11-24 22:00 UTC  BTC $59,888
+2026-11-25 02:16:42,072    all_metrics_1x   equity $ 1,070.00  exposure $     +178  
+2026-11-25 02:16:42,072    all_metrics_2x   equity $ 1,141.00  exposure $     +379  
+2026-11-25 02:16:42,072    all_metrics_5x   equity $ 1,358.10  exposure $   +1,123  
+2026-11-25 02:16:42,072    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 02:16:42,072    oscillators_2x   equity $   975.94  exposure $     +649  
+2026-11-25 02:16:42,072    volume_vol_2x    equity $   981.26  exposure $     +326  
+2026-11-25 02:16:42,072    dist_ma20_2x     equity $   920.85  exposure $     +918  
+2026-11-25 02:16:42,076 hour 2026-11-24 23:00 UTC  BTC $59,741
+2026-11-25 02:16:42,076    all_metrics_1x   equity $ 1,069.55  exposure $     +178  
+2026-11-25 02:16:42,076    all_metrics_2x   equity $ 1,140.06  exposure $     +379  
+2026-11-25 02:16:42,076    all_metrics_5x   equity $ 1,355.32  exposure $   +1,123  
+2026-11-25 02:16:42,076    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 02:16:42,076    oscillators_2x   equity $   974.34  exposure $     +649  
+2026-11-25 02:16:42,076    volume_vol_2x    equity $   980.46  exposure $     +326  
+2026-11-25 02:16:42,077    dist_ma20_2x     equity $   918.60  exposure $     +918  
+2026-11-25 02:16:42,126 hour 2026-11-25 00:00 UTC  BTC $59,570
+2026-11-25 02:16:42,126    all_metrics_1x   equity $ 1,069.04  exposure $     +178  no trade
+2026-11-25 02:16:42,127    all_metrics_2x   equity $ 1,138.97  exposure $     +379  no trade
+2026-11-25 02:16:42,127    all_metrics_5x   equity $ 1,352.09  exposure $   +1,123  no trade
+2026-11-25 02:16:42,127    trend_only_2x    equity $ 1,126.79  exposure $       +0  no trade
+2026-11-25 02:16:42,127    oscillators_2x   equity $   972.41  exposure $     +973  OPEN LONG
+2026-11-25 02:16:42,127    volume_vol_2x    equity $   979.52  exposure $     +326  no trade
+2026-11-25 02:16:42,127    dist_ma20_2x     equity $   915.98  exposure $     +918  no trade
+2026-11-25 02:16:42,130 hour 2026-11-25 01:00 UTC  BTC $59,174
+2026-11-25 02:16:42,130    all_metrics_1x   equity $ 1,067.85  exposure $     +178  
+2026-11-25 02:16:42,131    all_metrics_2x   equity $ 1,136.44  exposure $     +379  
+2026-11-25 02:16:42,131    all_metrics_5x   equity $ 1,344.60  exposure $   +1,123  
+2026-11-25 02:16:42,131    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 02:16:42,131    oscillators_2x   equity $   965.95  exposure $     +973  
+2026-11-25 02:16:42,131    volume_vol_2x    equity $   977.35  exposure $     +326  
+2026-11-25 02:16:42,131    dist_ma20_2x     equity $   909.91  exposure $     +918  
+2026-11-25 12:36:32,032 paper trader started: 7 bots, BTC-USD
+2026-11-25 12:36:33,852 hour 2026-11-25 02:00 UTC  BTC $59,149
+2026-11-25 12:36:33,852    all_metrics_1x   equity $ 1,067.78  exposure $     +178  
+2026-11-25 12:36:33,852    all_metrics_2x   equity $ 1,136.28  exposure $     +379  
+2026-11-25 12:36:33,852    all_metrics_5x   equity $ 1,344.13  exposure $   +1,123  
+2026-11-25 12:36:33,852    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 12:36:33,852    oscillators_2x   equity $   965.54  exposure $     +973  
+2026-11-25 12:36:33,852    volume_vol_2x    equity $   977.21  exposure $     +326  
+2026-11-25 12:36:33,852    dist_ma20_2x     equity $   909.53  exposure $     +918  
+2026-11-25 12:36:33,856 hour 2026-11-25 03:00 UTC  BTC $59,331
+2026-11-25 12:36:33,856    all_metrics_1x   equity $ 1,068.32  exposure $     +178  
+2026-11-25 12:36:33,856    all_metrics_2x   equity $ 1,137.44  exposure $     +379  
+2026-11-25 12:36:33,856    all_metrics_5x   equity $ 1,347.56  exposure $   +1,123  
+2026-11-25 12:36:33,856    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 12:36:33,856    oscillators_2x   equity $   968.51  exposure $     +973  
+2026-11-25 12:36:33,856    volume_vol_2x    equity $   978.21  exposure $     +326  
+2026-11-25 12:36:33,856    dist_ma20_2x     equity $   912.31  exposure $     +918  
+2026-11-25 12:36:33,905 hour 2026-11-25 04:00 UTC  BTC $59,134
+2026-11-25 12:36:33,905    all_metrics_1x   equity $ 1,067.73  exposure $     +178  no trade
+2026-11-25 12:36:33,905    all_metrics_2x   equity $ 1,136.18  exposure $     +379  no trade
+2026-11-25 12:36:33,905    all_metrics_5x   equity $ 1,343.84  exposure $   +1,123  no trade
+2026-11-25 12:36:33,905    trend_only_2x    equity $ 1,126.79  exposure $       +0  no trade
+2026-11-25 12:36:33,905    oscillators_2x   equity $   965.23  exposure $   +1,295  OPEN LONG
+2026-11-25 12:36:33,905    volume_vol_2x    equity $   977.13  exposure $     +326  no trade
+2026-11-25 12:36:33,905    dist_ma20_2x     equity $   908.93  exposure $     +611  no trade
+2026-11-25 12:36:33,909 hour 2026-11-25 05:00 UTC  BTC $59,071
+2026-11-25 12:36:33,909    all_metrics_1x   equity $ 1,067.54  exposure $     +178  
+2026-11-25 12:36:33,909    all_metrics_2x   equity $ 1,135.78  exposure $     +379  
+2026-11-25 12:36:33,909    all_metrics_5x   equity $ 1,342.64  exposure $   +1,123  
+2026-11-25 12:36:33,909    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 12:36:33,909    oscillators_2x   equity $   963.85  exposure $   +1,295  
+2026-11-25 12:36:33,909    volume_vol_2x    equity $   976.78  exposure $     +326  
+2026-11-25 12:36:33,909    dist_ma20_2x     equity $   908.29  exposure $     +611  
+2026-11-25 12:36:33,913 hour 2026-11-25 06:00 UTC  BTC $59,150
+2026-11-25 12:36:33,913    all_metrics_1x   equity $ 1,067.78  exposure $     +178  
+2026-11-25 12:36:33,913    all_metrics_2x   equity $ 1,136.29  exposure $     +379  
+2026-11-25 12:36:33,913    all_metrics_5x   equity $ 1,344.14  exposure $   +1,123  
+2026-11-25 12:36:33,913    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 12:36:33,913    oscillators_2x   equity $   965.58  exposure $   +1,295  
+2026-11-25 12:36:33,913    volume_vol_2x    equity $   977.22  exposure $     +326  
+2026-11-25 12:36:33,913    dist_ma20_2x     equity $   909.10  exposure $     +611  
+2026-11-25 12:36:33,917 hour 2026-11-25 07:00 UTC  BTC $58,654
+2026-11-25 12:36:33,917    all_metrics_1x   equity $ 1,066.29  exposure $     +178  
+2026-11-25 12:36:33,917    all_metrics_2x   equity $ 1,133.12  exposure $     +379  
+2026-11-25 12:36:33,918    all_metrics_5x   equity $ 1,334.76  exposure $   +1,123  
+2026-11-25 12:36:33,918    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 12:36:33,918    oscillators_2x   equity $   954.78  exposure $   +1,295  
+2026-11-25 12:36:33,918    volume_vol_2x    equity $   974.50  exposure $     +326  
+2026-11-25 12:36:33,918    dist_ma20_2x     equity $   904.03  exposure $     +611  
+2026-11-25 12:36:33,964 hour 2026-11-25 08:00 UTC  BTC $59,344
+2026-11-25 12:36:33,964    all_metrics_1x   equity $ 1,068.36  exposure $     +178  no trade
+2026-11-25 12:36:33,964    all_metrics_2x   equity $ 1,137.52  exposure $     +379  no trade
+2026-11-25 12:36:33,965    all_metrics_5x   equity $ 1,347.80  exposure $   +1,123  no trade
+2026-11-25 12:36:33,965    trend_only_2x    equity $ 1,126.79  exposure $       +0  no trade
+2026-11-25 12:36:33,965    oscillators_2x   equity $   969.73  exposure $   +1,618  OPEN LONG
+2026-11-25 12:36:33,965    volume_vol_2x    equity $   978.28  exposure $     +326  no trade
+2026-11-25 12:36:33,965    dist_ma20_2x     equity $   910.71  exposure $     +304  no trade
+2026-11-25 12:36:33,968 hour 2026-11-25 09:00 UTC  BTC $59,001
+2026-11-25 12:36:33,968    all_metrics_1x   equity $ 1,067.33  exposure $     +178  
+2026-11-25 12:36:33,968    all_metrics_2x   equity $ 1,135.33  exposure $     +379  
+2026-11-25 12:36:33,968    all_metrics_5x   equity $ 1,341.32  exposure $   +1,123  
+2026-11-25 12:36:33,968    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 12:36:33,968    oscillators_2x   equity $   960.39  exposure $   +1,618  
+2026-11-25 12:36:33,969    volume_vol_2x    equity $   976.40  exposure $     +326  
+2026-11-25 12:36:33,969    dist_ma20_2x     equity $   908.96  exposure $     +304  
+2026-11-25 12:36:33,972 hour 2026-11-25 10:00 UTC  BTC $58,818
+2026-11-25 12:36:33,972    all_metrics_1x   equity $ 1,066.79  exposure $     +178  
+2026-11-25 12:36:33,972    all_metrics_2x   equity $ 1,134.16  exposure $     +379  
+2026-11-25 12:36:33,972    all_metrics_5x   equity $ 1,337.86  exposure $   +1,123  
+2026-11-25 12:36:33,972    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 12:36:33,972    oscillators_2x   equity $   955.42  exposure $   +1,618  
+2026-11-25 12:36:33,972    volume_vol_2x    equity $   975.39  exposure $     +326  
+2026-11-25 12:36:33,972    dist_ma20_2x     equity $   908.02  exposure $     +304  
+2026-11-25 12:36:33,976 hour 2026-11-25 11:00 UTC  BTC $58,553
+2026-11-25 12:36:33,976    all_metrics_1x   equity $ 1,065.99  exposure $     +178  
+2026-11-25 12:36:33,976    all_metrics_2x   equity $ 1,132.47  exposure $     +379  
+2026-11-25 12:36:33,976    all_metrics_5x   equity $ 1,332.84  exposure $   +1,123  
+2026-11-25 12:36:33,976    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 12:36:33,976    oscillators_2x   equity $   948.20  exposure $   +1,618  
+2026-11-25 12:36:33,976    volume_vol_2x    equity $   973.94  exposure $     +326  
+2026-11-25 12:36:33,976    dist_ma20_2x     equity $   906.66  exposure $     +304  
+2026-11-25 22:24:40,137 paper trader started: 7 bots, BTC-USD
+2026-11-25 22:24:41,904 hour 2026-11-25 12:00 UTC  BTC $58,668
+2026-11-25 22:24:41,904    all_metrics_1x   equity $ 1,066.34  exposure $     +178  no trade
+2026-11-25 22:24:41,904    all_metrics_2x   equity $ 1,133.21  exposure $     +379  no trade
+2026-11-25 22:24:41,904    all_metrics_5x   equity $ 1,335.02  exposure $   +1,123  no trade
+2026-11-25 22:24:41,904    trend_only_2x    equity $ 1,126.79  exposure $       +0  no trade
+2026-11-25 22:24:41,904    oscillators_2x   equity $   951.27  exposure $   +1,935  OPEN LONG
+2026-11-25 22:24:41,904    volume_vol_2x    equity $   974.57  exposure $     +326  no trade
+2026-11-25 22:24:41,904    dist_ma20_2x     equity $   907.25  exposure $     +304  no trade
+2026-11-25 22:24:41,906 hour 2026-11-25 13:00 UTC  BTC $57,998
+2026-11-25 22:24:41,906    all_metrics_1x   equity $ 1,064.33  exposure $     +178  
+2026-11-25 22:24:41,906    all_metrics_2x   equity $ 1,128.92  exposure $     +379  
+2026-11-25 22:24:41,906    all_metrics_5x   equity $ 1,322.34  exposure $   +1,123  
+2026-11-25 22:24:41,906    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 22:24:41,906    oscillators_2x   equity $   929.41  exposure $   +1,935  
+2026-11-25 22:24:41,906    volume_vol_2x    equity $   970.90  exposure $     +326  
+2026-11-25 22:24:41,906    dist_ma20_2x     equity $   903.82  exposure $     +304  
+2026-11-25 22:24:41,908 hour 2026-11-25 14:00 UTC  BTC $58,146
+2026-11-25 22:24:41,908    all_metrics_1x   equity $ 1,064.77  exposure $     +178  
+2026-11-25 22:24:41,908    all_metrics_2x   equity $ 1,129.87  exposure $     +379  
+2026-11-25 22:24:41,908    all_metrics_5x   equity $ 1,325.14  exposure $   +1,123  
+2026-11-25 22:24:41,908    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 22:24:41,908    oscillators_2x   equity $   934.25  exposure $   +1,935  
+2026-11-25 22:24:41,909    volume_vol_2x    equity $   971.71  exposure $     +326  
+2026-11-25 22:24:41,909    dist_ma20_2x     equity $   904.58  exposure $     +304  
+2026-11-25 22:24:41,913 hour 2026-11-25 15:00 UTC  BTC $58,256
+2026-11-25 22:24:41,913    all_metrics_1x   equity $ 1,065.10  exposure $     +178  
+2026-11-25 22:24:41,913    all_metrics_2x   equity $ 1,130.57  exposure $     +379  
+2026-11-25 22:24:41,913    all_metrics_5x   equity $ 1,327.22  exposure $   +1,123  
+2026-11-25 22:24:41,913    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 22:24:41,913    oscillators_2x   equity $   937.82  exposure $   +1,935  
+2026-11-25 22:24:41,913    volume_vol_2x    equity $   972.31  exposure $     +326  
+2026-11-25 22:24:41,913    dist_ma20_2x     equity $   905.14  exposure $     +304  
+2026-11-25 22:24:41,934 hour 2026-11-25 16:00 UTC  BTC $58,531
+2026-11-25 22:24:41,934    all_metrics_1x   equity $ 1,065.71  exposure $       +0  no trade
+2026-11-25 22:24:41,934    all_metrics_2x   equity $ 1,131.88  exposure $       +0  no trade
+2026-11-25 22:24:41,934    all_metrics_5x   equity $ 1,331.08  exposure $       +0  no trade
+2026-11-25 22:24:41,934    trend_only_2x    equity $ 1,126.79  exposure $       +0  no trade
+2026-11-25 22:24:41,934    oscillators_2x   equity $   946.41  exposure $   +1,611  no trade
+2026-11-25 22:24:41,934    volume_vol_2x    equity $   973.43  exposure $       +0  no trade
+2026-11-25 22:24:41,934    dist_ma20_2x     equity $   906.19  exposure $       +0  no trade
+2026-11-25 22:24:41,936 hour 2026-11-25 17:00 UTC  BTC $59,522
+2026-11-25 22:24:41,936    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-25 22:24:41,936    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-25 22:24:41,936    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-25 22:24:41,936    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 22:24:41,936    oscillators_2x   equity $   973.35  exposure $   +1,611  
+2026-11-25 22:24:41,936    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-25 22:24:41,936    dist_ma20_2x     equity $   906.19  exposure $       +0  
+2026-11-25 22:24:41,938 hour 2026-11-25 18:00 UTC  BTC $59,652
+2026-11-25 22:24:41,938    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-25 22:24:41,938    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-25 22:24:41,938    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-25 22:24:41,938    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 22:24:41,938    oscillators_2x   equity $   976.87  exposure $   +1,611  
+2026-11-25 22:24:41,938    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-25 22:24:41,938    dist_ma20_2x     equity $   906.19  exposure $       +0  
+2026-11-25 22:24:41,940 hour 2026-11-25 19:00 UTC  BTC $59,807
+2026-11-25 22:24:41,940    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-25 22:24:41,940    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-25 22:24:41,940    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-25 22:24:41,940    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 22:24:41,940    oscillators_2x   equity $   981.07  exposure $   +1,611  
+2026-11-25 22:24:41,940    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-25 22:24:41,940    dist_ma20_2x     equity $   906.19  exposure $       +0  
+2026-11-25 22:24:41,961 hour 2026-11-25 20:00 UTC  BTC $60,194
+2026-11-25 22:24:41,961    all_metrics_1x   equity $ 1,065.71  exposure $       +0  no trade
+2026-11-25 22:24:41,961    all_metrics_2x   equity $ 1,131.88  exposure $       +0  no trade
+2026-11-25 22:24:41,961    all_metrics_5x   equity $ 1,331.08  exposure $       +0  no trade
+2026-11-25 22:24:41,961    trend_only_2x    equity $ 1,126.79  exposure $       +0  no trade
+2026-11-25 22:24:41,961    oscillators_2x   equity $   991.20  exposure $   +1,286  no trade
+2026-11-25 22:24:41,961    volume_vol_2x    equity $   973.43  exposure $       +0  no trade
+2026-11-25 22:24:41,961    dist_ma20_2x     equity $   906.12  exposure $     -302  OPEN SHORT
+2026-11-25 22:24:41,963 hour 2026-11-25 21:00 UTC  BTC $60,162
+2026-11-25 22:24:41,963    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-25 22:24:41,963    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-25 22:24:41,963    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-25 22:24:41,963    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-25 22:24:41,963    oscillators_2x   equity $   990.50  exposure $   +1,286  
+2026-11-25 22:24:41,963    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-25 22:24:41,963    dist_ma20_2x     equity $   906.28  exposure $     -302  
+2026-11-26 04:55:20,173 paper trader started: 7 bots, BTC-USD
+2026-11-26 04:55:21,649 hour 2026-11-25 22:00 UTC  BTC $60,027
+2026-11-26 04:55:21,649    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 04:55:21,649    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 04:55:21,649    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 04:55:21,649    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-26 04:55:21,649    oscillators_2x   equity $   987.58  exposure $   +1,286  
+2026-11-26 04:55:21,649    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 04:55:21,649    dist_ma20_2x     equity $   906.96  exposure $     -302  
+2026-11-26 04:55:21,652 hour 2026-11-25 23:00 UTC  BTC $60,384
+2026-11-26 04:55:21,652    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 04:55:21,652    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 04:55:21,652    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 04:55:21,652    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-26 04:55:21,652    oscillators_2x   equity $   995.32  exposure $   +1,286  
+2026-11-26 04:55:21,652    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 04:55:21,652    dist_ma20_2x     equity $   905.17  exposure $     -302  
+2026-11-26 04:55:21,677 hour 2026-11-26 00:00 UTC  BTC $60,434
+2026-11-26 04:55:21,677    all_metrics_1x   equity $ 1,065.71  exposure $       +0  no trade
+2026-11-26 04:55:21,677    all_metrics_2x   equity $ 1,131.88  exposure $       +0  no trade
+2026-11-26 04:55:21,677    all_metrics_5x   equity $ 1,331.08  exposure $       +0  no trade
+2026-11-26 04:55:21,677    trend_only_2x    equity $ 1,126.79  exposure $       +0  no trade
+2026-11-26 04:55:21,677    oscillators_2x   equity $   996.02  exposure $     +962  no trade
+2026-11-26 04:55:21,677    volume_vol_2x    equity $   973.43  exposure $       +0  no trade
+2026-11-26 04:55:21,677    dist_ma20_2x     equity $   904.86  exposure $     -604  OPEN SHORT
+2026-11-26 04:55:21,679 hour 2026-11-26 01:00 UTC  BTC $60,784
+2026-11-26 04:55:21,679    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 04:55:21,680    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 04:55:21,680    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 04:55:21,680    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-26 04:55:21,680    oscillators_2x   equity $ 1,001.72  exposure $     +962  
+2026-11-26 04:55:21,680    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 04:55:21,680    dist_ma20_2x     equity $   901.35  exposure $     -604  
+2026-11-26 04:55:21,682 hour 2026-11-26 02:00 UTC  BTC $60,623
+2026-11-26 04:55:21,682    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 04:55:21,682    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 04:55:21,682    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 04:55:21,682    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-26 04:55:21,682    oscillators_2x   equity $   999.10  exposure $     +962  
+2026-11-26 04:55:21,682    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 04:55:21,682    dist_ma20_2x     equity $   902.97  exposure $     -604  
+2026-11-26 04:55:21,684 hour 2026-11-26 03:00 UTC  BTC $60,692
+2026-11-26 04:55:21,684    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 04:55:21,684    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 04:55:21,684    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 04:55:21,684    trend_only_2x    equity $ 1,126.79  exposure $       +0  
+2026-11-26 04:55:21,684    oscillators_2x   equity $ 1,000.23  exposure $     +962  
+2026-11-26 04:55:21,685    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 04:55:21,685    dist_ma20_2x     equity $   902.27  exposure $     -604  
+2026-11-26 14:59:00,471 paper trader started: 7 bots, BTC-USD
+2026-11-26 14:59:01,912 hour 2026-11-26 04:00 UTC  BTC $60,891
+2026-11-26 14:59:01,912    all_metrics_1x   equity $ 1,065.71  exposure $       +0  no trade
+2026-11-26 14:59:01,912    all_metrics_2x   equity $ 1,131.88  exposure $       +0  no trade
+2026-11-26 14:59:01,912    all_metrics_5x   equity $ 1,331.08  exposure $       +0  no trade
+2026-11-26 14:59:01,912    trend_only_2x    equity $ 1,126.71  exposure $     -376  OPEN SHORT
+2026-11-26 14:59:01,912    oscillators_2x   equity $ 1,003.07  exposure $     +640  no trade
+2026-11-26 14:59:01,912    volume_vol_2x    equity $   973.43  exposure $       +0  no trade
+2026-11-26 14:59:01,912    dist_ma20_2x     equity $   900.22  exposure $     -904  OPEN SHORT
+2026-11-26 14:59:01,914 hour 2026-11-26 05:00 UTC  BTC $60,733
+2026-11-26 14:59:01,914    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 14:59:01,914    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 14:59:01,914    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 14:59:01,914    trend_only_2x    equity $ 1,127.68  exposure $     -376  
+2026-11-26 14:59:01,914    oscillators_2x   equity $ 1,001.36  exposure $     +640  
+2026-11-26 14:59:01,914    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 14:59:01,914    dist_ma20_2x     equity $   902.58  exposure $     -904  
+2026-11-26 14:59:01,916 hour 2026-11-26 06:00 UTC  BTC $60,476
+2026-11-26 14:59:01,916    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 14:59:01,916    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 14:59:01,916    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 14:59:01,916    trend_only_2x    equity $ 1,129.27  exposure $     -376  
+2026-11-26 14:59:01,916    oscillators_2x   equity $   998.57  exposure $     +640  
+2026-11-26 14:59:01,916    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 14:59:01,916    dist_ma20_2x     equity $   906.42  exposure $     -904  
+2026-11-26 14:59:01,919 hour 2026-11-26 07:00 UTC  BTC $60,446
+2026-11-26 14:59:01,920    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 14:59:01,920    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 14:59:01,920    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 14:59:01,920    trend_only_2x    equity $ 1,129.45  exposure $     -376  
+2026-11-26 14:59:01,920    oscillators_2x   equity $   998.25  exposure $     +640  
+2026-11-26 14:59:01,920    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 14:59:01,920    dist_ma20_2x     equity $   906.86  exposure $     -904  
+2026-11-26 14:59:01,952 hour 2026-11-26 08:00 UTC  BTC $60,838
+2026-11-26 14:59:01,952    all_metrics_1x   equity $ 1,065.71  exposure $       +0  no trade
+2026-11-26 14:59:01,953    all_metrics_2x   equity $ 1,131.88  exposure $       +0  no trade
+2026-11-26 14:59:01,953    all_metrics_5x   equity $ 1,331.08  exposure $       +0  no trade
+2026-11-26 14:59:01,953    trend_only_2x    equity $ 1,127.04  exposure $     -376  no trade
+2026-11-26 14:59:01,953    oscillators_2x   equity $ 1,002.10  exposure $     +317  no trade
+2026-11-26 14:59:01,953    volume_vol_2x    equity $   973.43  exposure $       +0  no trade
+2026-11-26 14:59:01,953    dist_ma20_2x     equity $   901.01  exposure $     -904  no trade
+2026-11-26 14:59:01,955 hour 2026-11-26 09:00 UTC  BTC $60,859
+2026-11-26 14:59:01,955    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 14:59:01,955    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 14:59:01,955    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 14:59:01,955    trend_only_2x    equity $ 1,126.91  exposure $     -376  
+2026-11-26 14:59:01,955    oscillators_2x   equity $ 1,002.22  exposure $     +317  
+2026-11-26 14:59:01,955    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 14:59:01,955    dist_ma20_2x     equity $   900.70  exposure $     -904  
+2026-11-26 14:59:01,957 hour 2026-11-26 10:00 UTC  BTC $60,438
+2026-11-26 14:59:01,957    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 14:59:01,958    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 14:59:01,958    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 14:59:01,958    trend_only_2x    equity $ 1,129.50  exposure $     -376  
+2026-11-26 14:59:01,958    oscillators_2x   equity $   999.94  exposure $     +317  
+2026-11-26 14:59:01,958    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 14:59:01,958    dist_ma20_2x     equity $   906.99  exposure $     -904  
+2026-11-26 14:59:01,967 hour 2026-11-26 11:00 UTC  BTC $60,636
+2026-11-26 14:59:01,967    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 14:59:01,967    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 14:59:01,967    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 14:59:01,967    trend_only_2x    equity $ 1,128.29  exposure $     -376  
+2026-11-26 14:59:01,967    oscillators_2x   equity $ 1,001.01  exposure $     +317  
+2026-11-26 14:59:01,967    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 14:59:01,967    dist_ma20_2x     equity $   904.04  exposure $     -904  
+2026-11-26 14:59:02,006 hour 2026-11-26 12:00 UTC  BTC $60,754
+2026-11-26 14:59:02,006    all_metrics_1x   equity $ 1,065.71  exposure $       +0  no trade
+2026-11-26 14:59:02,006    all_metrics_2x   equity $ 1,131.88  exposure $       +0  no trade
+2026-11-26 14:59:02,006    all_metrics_5x   equity $ 1,331.08  exposure $       +0  no trade
+2026-11-26 14:59:02,006    trend_only_2x    equity $ 1,127.48  exposure $     -751  OPEN SHORT
+2026-11-26 14:59:02,006    oscillators_2x   equity $ 1,001.26  exposure $       +0  no trade
+2026-11-26 14:59:02,006    volume_vol_2x    equity $   973.43  exposure $       +0  no trade
+2026-11-26 14:59:02,006    dist_ma20_2x     equity $   902.27  exposure $     -904  no trade
+2026-11-26 14:59:02,008 hour 2026-11-26 13:00 UTC  BTC $60,797
+2026-11-26 14:59:02,008    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 14:59:02,009    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 14:59:02,009    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 14:59:02,009    trend_only_2x    equity $ 1,126.94  exposure $     -751  
+2026-11-26 14:59:02,009    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-26 14:59:02,009    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 14:59:02,009    dist_ma20_2x     equity $   901.62  exposure $     -904  
+2026-11-26 23:43:43,688 paper trader started: 7 bots, BTC-USD
+2026-11-26 23:43:45,136 hour 2026-11-26 14:00 UTC  BTC $60,652
+2026-11-26 23:43:45,136    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 23:43:45,136    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 23:43:45,136    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 23:43:45,136    trend_only_2x    equity $ 1,128.74  exposure $     -751  
+2026-11-26 23:43:45,137    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-26 23:43:45,137    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 23:43:45,137    dist_ma20_2x     equity $   903.79  exposure $     -904  
+2026-11-26 23:43:45,140 hour 2026-11-26 15:00 UTC  BTC $60,549
+2026-11-26 23:43:45,140    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 23:43:45,140    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 23:43:45,140    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 23:43:45,140    trend_only_2x    equity $ 1,130.01  exposure $     -751  
+2026-11-26 23:43:45,141    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-26 23:43:45,141    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 23:43:45,141    dist_ma20_2x     equity $   905.33  exposure $     -904  
+2026-11-26 23:43:45,180 hour 2026-11-26 16:00 UTC  BTC $60,444
+2026-11-26 23:43:45,180    all_metrics_1x   equity $ 1,065.71  exposure $       +0  no trade
+2026-11-26 23:43:45,180    all_metrics_2x   equity $ 1,131.88  exposure $       +0  no trade
+2026-11-26 23:43:45,180    all_metrics_5x   equity $ 1,331.08  exposure $       +0  no trade
+2026-11-26 23:43:45,180    trend_only_2x    equity $ 1,131.23  exposure $   -1,129  OPEN SHORT
+2026-11-26 23:43:45,180    oscillators_2x   equity $ 1,001.26  exposure $       +0  no trade
+2026-11-26 23:43:45,180    volume_vol_2x    equity $   973.43  exposure $       +0  no trade
+2026-11-26 23:43:45,180    dist_ma20_2x     equity $   906.89  exposure $     -904  no trade
+2026-11-26 23:43:45,183 hour 2026-11-26 17:00 UTC  BTC $60,455
+2026-11-26 23:43:45,184    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 23:43:45,184    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 23:43:45,184    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 23:43:45,184    trend_only_2x    equity $ 1,131.03  exposure $   -1,129  
+2026-11-26 23:43:45,184    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-26 23:43:45,184    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 23:43:45,184    dist_ma20_2x     equity $   906.73  exposure $     -904  
+2026-11-26 23:43:45,187 hour 2026-11-26 18:00 UTC  BTC $60,402
+2026-11-26 23:43:45,187    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 23:43:45,187    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 23:43:45,187    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 23:43:45,187    trend_only_2x    equity $ 1,132.03  exposure $   -1,129  
+2026-11-26 23:43:45,187    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-26 23:43:45,187    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 23:43:45,187    dist_ma20_2x     equity $   907.53  exposure $     -904  
+2026-11-26 23:43:45,190 hour 2026-11-26 19:00 UTC  BTC $60,642
+2026-11-26 23:43:45,190    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 23:43:45,190    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 23:43:45,190    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 23:43:45,190    trend_only_2x    equity $ 1,127.56  exposure $   -1,129  
+2026-11-26 23:43:45,190    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-26 23:43:45,190    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 23:43:45,190    dist_ma20_2x     equity $   903.94  exposure $     -904  
+2026-11-26 23:43:45,228 hour 2026-11-26 20:00 UTC  BTC $60,687
+2026-11-26 23:43:45,229    all_metrics_1x   equity $ 1,065.71  exposure $       +0  no trade
+2026-11-26 23:43:45,229    all_metrics_2x   equity $ 1,131.88  exposure $       +0  no trade
+2026-11-26 23:43:45,229    all_metrics_5x   equity $ 1,331.08  exposure $       +0  no trade
+2026-11-26 23:43:45,229    trend_only_2x    equity $ 1,126.71  exposure $   -1,129  no trade
+2026-11-26 23:43:45,229    oscillators_2x   equity $ 1,001.26  exposure $       +0  no trade
+2026-11-26 23:43:45,229    volume_vol_2x    equity $   973.43  exposure $       +0  no trade
+2026-11-26 23:43:45,229    dist_ma20_2x     equity $   902.90  exposure $     -602  no trade
+2026-11-26 23:43:45,232 hour 2026-11-26 21:00 UTC  BTC $60,740
+2026-11-26 23:43:45,232    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 23:43:45,232    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 23:43:45,232    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 23:43:45,232    trend_only_2x    equity $ 1,125.72  exposure $   -1,129  
+2026-11-26 23:43:45,232    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-26 23:43:45,232    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 23:43:45,232    dist_ma20_2x     equity $   902.37  exposure $     -602  
+2026-11-26 23:43:45,236 hour 2026-11-26 22:00 UTC  BTC $60,467
+2026-11-26 23:43:45,236    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-26 23:43:45,236    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-26 23:43:45,236    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-26 23:43:45,236    trend_only_2x    equity $ 1,130.81  exposure $   -1,129  
+2026-11-26 23:43:45,236    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-26 23:43:45,236    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-26 23:43:45,236    dist_ma20_2x     equity $   905.08  exposure $     -602  
+2026-11-27 08:08:02,580 paper trader started: 7 bots, BTC-USD
+2026-11-27 08:08:04,079 hour 2026-11-26 23:00 UTC  BTC $60,496
+2026-11-27 08:08:04,079    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-27 08:08:04,079    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-27 08:08:04,080    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-27 08:08:04,080    trend_only_2x    equity $ 1,130.28  exposure $   -1,129  
+2026-11-27 08:08:04,080    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-27 08:08:04,080    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-27 08:08:04,080    dist_ma20_2x     equity $   904.80  exposure $     -602  
+2026-11-27 08:08:04,128 hour 2026-11-27 00:00 UTC  BTC $60,612
+2026-11-27 08:08:04,128    all_metrics_1x   equity $ 1,065.71  exposure $       +0  no trade
+2026-11-27 08:08:04,128    all_metrics_2x   equity $ 1,131.88  exposure $       +0  no trade
+2026-11-27 08:08:04,128    all_metrics_5x   equity $ 1,331.08  exposure $       +0  no trade
+2026-11-27 08:08:04,128    trend_only_2x    equity $ 1,128.11  exposure $   -1,129  no trade
+2026-11-27 08:08:04,128    oscillators_2x   equity $ 1,001.26  exposure $       +0  no trade
+2026-11-27 08:08:04,128    volume_vol_2x    equity $   973.43  exposure $       +0  no trade
+2026-11-27 08:08:04,128    dist_ma20_2x     equity $   903.29  exposure $     -300  no trade
+2026-11-27 08:08:04,132 hour 2026-11-27 01:00 UTC  BTC $60,645
+2026-11-27 08:08:04,132    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-27 08:08:04,132    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-27 08:08:04,132    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-27 08:08:04,132    trend_only_2x    equity $ 1,127.51  exposure $   -1,129  
+2026-11-27 08:08:04,132    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-27 08:08:04,132    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-27 08:08:04,132    dist_ma20_2x     equity $   903.12  exposure $     -300  
+2026-11-27 08:08:04,136 hour 2026-11-27 02:00 UTC  BTC $61,240
+2026-11-27 08:08:04,136    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-27 08:08:04,136    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-27 08:08:04,136    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-27 08:08:04,136    trend_only_2x    equity $ 1,116.44  exposure $   -1,129  
+2026-11-27 08:08:04,136    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-27 08:08:04,136    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-27 08:08:04,136    dist_ma20_2x     equity $   900.19  exposure $     -300  
+2026-11-27 08:08:04,140 hour 2026-11-27 03:00 UTC  BTC $61,332
+2026-11-27 08:08:04,140    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-27 08:08:04,140    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-27 08:08:04,140    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-27 08:08:04,140    trend_only_2x    equity $ 1,114.73  exposure $   -1,129  
+2026-11-27 08:08:04,140    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-27 08:08:04,140    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-27 08:08:04,140    dist_ma20_2x     equity $   899.74  exposure $     -300  
+2026-11-27 08:08:04,187 hour 2026-11-27 04:00 UTC  BTC $61,338
+2026-11-27 08:08:04,187    all_metrics_1x   equity $ 1,065.71  exposure $       +0  no trade
+2026-11-27 08:08:04,188    all_metrics_2x   equity $ 1,131.88  exposure $       +0  no trade
+2026-11-27 08:08:04,188    all_metrics_5x   equity $ 1,331.08  exposure $       +0  no trade
+2026-11-27 08:08:04,188    trend_only_2x    equity $ 1,114.16  exposure $     -753  no trade
+2026-11-27 08:08:04,188    oscillators_2x   equity $ 1,001.26  exposure $       +0  no trade
+2026-11-27 08:08:04,188    volume_vol_2x    equity $   973.43  exposure $       +0  no trade
+2026-11-27 08:08:04,188    dist_ma20_2x     equity $   899.34  exposure $       +0  no trade
+2026-11-27 08:08:04,191 hour 2026-11-27 05:00 UTC  BTC $61,694
+2026-11-27 08:08:04,191    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-27 08:08:04,191    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-27 08:08:04,191    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-27 08:08:04,191    trend_only_2x    equity $ 1,109.73  exposure $     -753  
+2026-11-27 08:08:04,191    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-27 08:08:04,192    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-27 08:08:04,192    dist_ma20_2x     equity $   899.34  exposure $       +0  
+2026-11-27 08:08:04,195 hour 2026-11-27 06:00 UTC  BTC $61,621
+2026-11-27 08:08:04,195    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-27 08:08:04,195    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-27 08:08:04,195    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-27 08:08:04,195    trend_only_2x    equity $ 1,110.64  exposure $     -753  
+2026-11-27 08:08:04,195    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-27 08:08:04,195    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-27 08:08:04,195    dist_ma20_2x     equity $   899.34  exposure $       +0  
+2026-11-27 08:08:04,199 hour 2026-11-27 07:00 UTC  BTC $61,579
+2026-11-27 08:08:04,199    all_metrics_1x   equity $ 1,065.71  exposure $       +0  
+2026-11-27 08:08:04,199    all_metrics_2x   equity $ 1,131.88  exposure $       +0  
+2026-11-27 08:08:04,199    all_metrics_5x   equity $ 1,331.08  exposure $       +0  
+2026-11-27 08:08:04,199    trend_only_2x    equity $ 1,111.17  exposure $     -753  
+2026-11-27 08:08:04,199    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-27 08:08:04,199    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-27 08:08:04,199    dist_ma20_2x     equity $   899.34  exposure $       +0  
+2026-11-27 18:50:40,801 paper trader started: 7 bots, BTC-USD
+2026-11-27 18:50:42,283 hour 2026-11-27 08:00 UTC  BTC $61,647
+2026-11-27 18:50:42,283    all_metrics_1x   equity $ 1,065.68  exposure $     +178  OPEN LONG
+2026-11-27 18:50:42,283    all_metrics_2x   equity $ 1,131.80  exposure $     +377  OPEN LONG
+2026-11-27 18:50:42,283    all_metrics_5x   equity $ 1,330.86  exposure $   +1,109  OPEN LONG
+2026-11-27 18:50:42,283    trend_only_2x    equity $ 1,110.32  exposure $     -753  no trade
+2026-11-27 18:50:42,283    oscillators_2x   equity $ 1,001.26  exposure $       +0  no trade
+2026-11-27 18:50:42,283    volume_vol_2x    equity $   973.43  exposure $       +0  no trade
+2026-11-27 18:50:42,283    dist_ma20_2x     equity $   899.34  exposure $       +0  no trade
+2026-11-27 18:50:42,287 hour 2026-11-27 09:00 UTC  BTC $61,549
+2026-11-27 18:50:42,287    all_metrics_1x   equity $ 1,065.39  exposure $     +178  
+2026-11-27 18:50:42,287    all_metrics_2x   equity $ 1,131.20  exposure $     +377  
+2026-11-27 18:50:42,287    all_metrics_5x   equity $ 1,329.09  exposure $   +1,109  
+2026-11-27 18:50:42,287    trend_only_2x    equity $ 1,111.54  exposure $     -753  
+2026-11-27 18:50:42,287    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-27 18:50:42,287    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-27 18:50:42,287    dist_ma20_2x     equity $   899.34  exposure $       +0  
+2026-11-27 18:50:42,290 hour 2026-11-27 10:00 UTC  BTC $61,584
+2026-11-27 18:50:42,290    all_metrics_1x   equity $ 1,065.50  exposure $     +178  
+2026-11-27 18:50:42,290    all_metrics_2x   equity $ 1,131.42  exposure $     +377  
+2026-11-27 18:50:42,290    all_metrics_5x   equity $ 1,329.74  exposure $   +1,109  
+2026-11-27 18:50:42,290    trend_only_2x    equity $ 1,111.10  exposure $     -753  
+2026-11-27 18:50:42,290    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-27 18:50:42,290    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-27 18:50:42,290    dist_ma20_2x     equity $   899.34  exposure $       +0  
+2026-11-27 18:50:42,293 hour 2026-11-27 11:00 UTC  BTC $61,574
+2026-11-27 18:50:42,293    all_metrics_1x   equity $ 1,065.47  exposure $     +178  
+2026-11-27 18:50:42,293    all_metrics_2x   equity $ 1,131.36  exposure $     +377  
+2026-11-27 18:50:42,293    all_metrics_5x   equity $ 1,329.55  exposure $   +1,109  
+2026-11-27 18:50:42,293    trend_only_2x    equity $ 1,111.22  exposure $     -753  
+2026-11-27 18:50:42,293    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-27 18:50:42,293    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-27 18:50:42,293    dist_ma20_2x     equity $   899.34  exposure $       +0  
+2026-11-27 18:50:42,323 hour 2026-11-27 12:00 UTC  BTC $61,551
+2026-11-27 18:50:42,323    all_metrics_1x   equity $ 1,065.37  exposure $     +355  OPEN LONG
+2026-11-27 18:50:42,323    all_metrics_2x   equity $ 1,131.14  exposure $     +754  OPEN LONG
+2026-11-27 18:50:42,323    all_metrics_5x   equity $ 1,328.92  exposure $   +2,217  OPEN LONG
+2026-11-27 18:50:42,323    trend_only_2x    equity $ 1,111.05  exposure $     -377  no trade
+2026-11-27 18:50:42,323    oscillators_2x   equity $ 1,001.26  exposure $       +0  no trade
+2026-11-27 18:50:42,323    volume_vol_2x    equity $   973.43  exposure $       +0  no trade
+2026-11-27 18:50:42,323    dist_ma20_2x     equity $   899.34  exposure $       +0  no trade
+2026-11-27 18:50:42,326 hour 2026-11-27 13:00 UTC  BTC $61,385
+2026-11-27 18:50:42,326    all_metrics_1x   equity $ 1,064.41  exposure $     +355  
+2026-11-27 18:50:42,326    all_metrics_2x   equity $ 1,129.11  exposure $     +754  
+2026-11-27 18:50:42,326    all_metrics_5x   equity $ 1,322.95  exposure $   +2,217  
+2026-11-27 18:50:42,326    trend_only_2x    equity $ 1,112.09  exposure $     -377  
+2026-11-27 18:50:42,326    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-27 18:50:42,326    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-27 18:50:42,326    dist_ma20_2x     equity $   899.34  exposure $       +0  
+2026-11-27 18:50:42,329 hour 2026-11-27 14:00 UTC  BTC $59,130
+2026-11-27 18:50:42,329    all_metrics_1x   equity $ 1,051.41  exposure $     +355  
+2026-11-27 18:50:42,329    all_metrics_2x   equity $ 1,101.50  exposure $     +754  
+2026-11-27 18:50:42,329    all_metrics_5x   equity $ 1,241.81  exposure $   +2,217  
+2026-11-27 18:50:42,329    trend_only_2x    equity $ 1,126.16  exposure $     -377  
+2026-11-27 18:50:42,329    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-27 18:50:42,329    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-27 18:50:42,329    dist_ma20_2x     equity $   899.34  exposure $       +0  
+2026-11-27 18:50:42,332 hour 2026-11-27 15:00 UTC  BTC $60,055
+2026-11-27 18:50:42,333    all_metrics_1x   equity $ 1,056.74  exposure $     +355  
+2026-11-27 18:50:42,333    all_metrics_2x   equity $ 1,112.82  exposure $     +754  
+2026-11-27 18:50:42,333    all_metrics_5x   equity $ 1,275.08  exposure $   +2,217  
+2026-11-27 18:50:42,333    trend_only_2x    equity $ 1,120.39  exposure $     -377  
+2026-11-27 18:50:42,333    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-27 18:50:42,333    volume_vol_2x    equity $   973.43  exposure $       +0  
+2026-11-27 18:50:42,333    dist_ma20_2x     equity $   899.34  exposure $       +0  
+2026-11-27 18:50:42,363 hour 2026-11-27 16:00 UTC  BTC $59,876
+2026-11-27 18:50:42,363    all_metrics_1x   equity $ 1,055.71  exposure $     +355  no trade
+2026-11-27 18:50:42,363    all_metrics_2x   equity $ 1,110.63  exposure $     +754  no trade
+2026-11-27 18:50:42,363    all_metrics_5x   equity $ 1,268.65  exposure $   +2,217  no trade
+2026-11-27 18:50:42,363    trend_only_2x    equity $ 1,121.05  exposure $       +0  no trade
+2026-11-27 18:50:42,363    oscillators_2x   equity $ 1,001.26  exposure $       +0  no trade
+2026-11-27 18:50:42,364    volume_vol_2x    equity $   973.37  exposure $     +324  OPEN LONG
+2026-11-27 18:50:42,364    dist_ma20_2x     equity $   899.28  exposure $     +300  OPEN LONG
+2026-11-27 18:50:42,366 hour 2026-11-27 17:00 UTC  BTC $59,847
+2026-11-27 18:50:42,366    all_metrics_1x   equity $ 1,055.54  exposure $     +355  
+2026-11-27 18:50:42,366    all_metrics_2x   equity $ 1,110.28  exposure $     +754  
+2026-11-27 18:50:42,366    all_metrics_5x   equity $ 1,267.60  exposure $   +2,217  
+2026-11-27 18:50:42,366    trend_only_2x    equity $ 1,121.05  exposure $       +0  
+2026-11-27 18:50:42,366    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-27 18:50:42,366    volume_vol_2x    equity $   973.21  exposure $     +324  
+2026-11-27 18:50:42,366    dist_ma20_2x     equity $   899.14  exposure $     +300  
+2026-11-28 01:52:50,329 paper trader started: 7 bots, BTC-USD
+2026-11-28 01:52:52,207 hour 2026-11-27 18:00 UTC  BTC $59,843
+2026-11-28 01:52:52,207    all_metrics_1x   equity $ 1,055.52  exposure $     +355  
+2026-11-28 01:52:52,207    all_metrics_2x   equity $ 1,110.23  exposure $     +754  
+2026-11-28 01:52:52,207    all_metrics_5x   equity $ 1,267.46  exposure $   +2,217  
+2026-11-28 01:52:52,207    trend_only_2x    equity $ 1,121.05  exposure $       +0  
+2026-11-28 01:52:52,207    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 01:52:52,207    volume_vol_2x    equity $   973.19  exposure $     +324  
+2026-11-28 01:52:52,207    dist_ma20_2x     equity $   899.12  exposure $     +300  
+2026-11-28 01:52:52,213 hour 2026-11-27 19:00 UTC  BTC $59,833
+2026-11-28 01:52:52,213    all_metrics_1x   equity $ 1,055.46  exposure $     +355  
+2026-11-28 01:52:52,213    all_metrics_2x   equity $ 1,110.11  exposure $     +754  
+2026-11-28 01:52:52,213    all_metrics_5x   equity $ 1,267.10  exposure $   +2,217  
+2026-11-28 01:52:52,213    trend_only_2x    equity $ 1,121.05  exposure $       +0  
+2026-11-28 01:52:52,213    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 01:52:52,213    volume_vol_2x    equity $   973.13  exposure $     +324  
+2026-11-28 01:52:52,213    dist_ma20_2x     equity $   899.07  exposure $     +300  
+2026-11-28 01:52:52,263 hour 2026-11-27 20:00 UTC  BTC $59,729
+2026-11-28 01:52:52,263    all_metrics_1x   equity $ 1,054.86  exposure $     +355  no trade
+2026-11-28 01:52:52,263    all_metrics_2x   equity $ 1,108.83  exposure $     +754  no trade
+2026-11-28 01:52:52,263    all_metrics_5x   equity $ 1,263.37  exposure $   +2,217  no trade
+2026-11-28 01:52:52,263    trend_only_2x    equity $ 1,121.05  exposure $       +0  no trade
+2026-11-28 01:52:52,263    oscillators_2x   equity $ 1,001.26  exposure $       +0  no trade
+2026-11-28 01:52:52,263    volume_vol_2x    equity $   972.57  exposure $     +324  no trade
+2026-11-28 01:52:52,263    dist_ma20_2x     equity $   898.49  exposure $     +599  OPEN LONG
+2026-11-28 01:52:52,266 hour 2026-11-27 21:00 UTC  BTC $59,722
+2026-11-28 01:52:52,267    all_metrics_1x   equity $ 1,054.82  exposure $     +355  
+2026-11-28 01:52:52,267    all_metrics_2x   equity $ 1,108.74  exposure $     +754  
+2026-11-28 01:52:52,267    all_metrics_5x   equity $ 1,263.10  exposure $   +2,217  
+2026-11-28 01:52:52,267    trend_only_2x    equity $ 1,121.05  exposure $       +0  
+2026-11-28 01:52:52,267    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 01:52:52,267    volume_vol_2x    equity $   972.53  exposure $     +324  
+2026-11-28 01:52:52,267    dist_ma20_2x     equity $   898.41  exposure $     +599  
+2026-11-28 01:52:52,271 hour 2026-11-27 22:00 UTC  BTC $59,675
+2026-11-28 01:52:52,271    all_metrics_1x   equity $ 1,054.55  exposure $     +355  
+2026-11-28 01:52:52,271    all_metrics_2x   equity $ 1,108.17  exposure $     +754  
+2026-11-28 01:52:52,271    all_metrics_5x   equity $ 1,261.40  exposure $   +2,217  
+2026-11-28 01:52:52,271    trend_only_2x    equity $ 1,121.05  exposure $       +0  
+2026-11-28 01:52:52,271    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 01:52:52,271    volume_vol_2x    equity $   972.28  exposure $     +324  
+2026-11-28 01:52:52,271    dist_ma20_2x     equity $   897.94  exposure $     +599  
+2026-11-28 01:52:52,275 hour 2026-11-27 23:00 UTC  BTC $59,858
+2026-11-28 01:52:52,275    all_metrics_1x   equity $ 1,055.61  exposure $     +355  
+2026-11-28 01:52:52,275    all_metrics_2x   equity $ 1,110.42  exposure $     +754  
+2026-11-28 01:52:52,275    all_metrics_5x   equity $ 1,268.01  exposure $   +2,217  
+2026-11-28 01:52:52,275    trend_only_2x    equity $ 1,121.05  exposure $       +0  
+2026-11-28 01:52:52,276    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 01:52:52,276    volume_vol_2x    equity $   973.27  exposure $     +324  
+2026-11-28 01:52:52,276    dist_ma20_2x     equity $   899.78  exposure $     +599  
+2026-11-28 01:52:52,322 hour 2026-11-28 00:00 UTC  BTC $59,834
+2026-11-28 01:52:52,322    all_metrics_1x   equity $ 1,055.46  exposure $     +355  no trade
+2026-11-28 01:52:52,322    all_metrics_2x   equity $ 1,110.11  exposure $     +754  no trade
+2026-11-28 01:52:52,322    all_metrics_5x   equity $ 1,267.12  exposure $   +2,217  no trade
+2026-11-28 01:52:52,322    trend_only_2x    equity $ 1,121.05  exposure $       +0  no trade
+2026-11-28 01:52:52,322    oscillators_2x   equity $ 1,001.26  exposure $       +0  no trade
+2026-11-28 01:52:52,322    volume_vol_2x    equity $   973.14  exposure $     +324  no trade
+2026-11-28 01:52:52,323    dist_ma20_2x     equity $   899.53  exposure $     +599  no trade
+2026-11-28 10:11:56,029 paper trader started: 7 bots, BTC-USD
+2026-11-28 10:11:57,778 hour 2026-11-28 01:00 UTC  BTC $60,120
+2026-11-28 10:11:57,778    all_metrics_1x   equity $ 1,057.11  exposure $     +355  
+2026-11-28 10:11:57,778    all_metrics_2x   equity $ 1,113.61  exposure $     +754  
+2026-11-28 10:11:57,778    all_metrics_5x   equity $ 1,277.41  exposure $   +2,217  
+2026-11-28 10:11:57,778    trend_only_2x    equity $ 1,121.05  exposure $       +0  
+2026-11-28 10:11:57,778    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 10:11:57,778    volume_vol_2x    equity $   974.69  exposure $     +324  
+2026-11-28 10:11:57,778    dist_ma20_2x     equity $   902.40  exposure $     +599  
+2026-11-28 10:11:57,782 hour 2026-11-28 02:00 UTC  BTC $59,888
+2026-11-28 10:11:57,782    all_metrics_1x   equity $ 1,055.77  exposure $     +355  
+2026-11-28 10:11:57,782    all_metrics_2x   equity $ 1,110.77  exposure $     +754  
+2026-11-28 10:11:57,782    all_metrics_5x   equity $ 1,269.06  exposure $   +2,217  
+2026-11-28 10:11:57,782    trend_only_2x    equity $ 1,121.05  exposure $       +0  
+2026-11-28 10:11:57,782    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 10:11:57,782    volume_vol_2x    equity $   973.43  exposure $     +324  
+2026-11-28 10:11:57,782    dist_ma20_2x     equity $   900.07  exposure $     +599  
+2026-11-28 10:11:57,786 hour 2026-11-28 03:00 UTC  BTC $59,956
+2026-11-28 10:11:57,786    all_metrics_1x   equity $ 1,056.17  exposure $     +355  
+2026-11-28 10:11:57,786    all_metrics_2x   equity $ 1,111.60  exposure $     +754  
+2026-11-28 10:11:57,786    all_metrics_5x   equity $ 1,271.51  exposure $   +2,217  
+2026-11-28 10:11:57,786    trend_only_2x    equity $ 1,121.05  exposure $       +0  
+2026-11-28 10:11:57,786    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 10:11:57,786    volume_vol_2x    equity $   973.80  exposure $     +324  
+2026-11-28 10:11:57,786    dist_ma20_2x     equity $   900.76  exposure $     +599  
+2026-11-28 10:11:57,825 hour 2026-11-28 04:00 UTC  BTC $59,926
+2026-11-28 10:11:57,825    all_metrics_1x   equity $ 1,055.99  exposure $     +355  no trade
+2026-11-28 10:11:57,825    all_metrics_2x   equity $ 1,111.24  exposure $     +754  no trade
+2026-11-28 10:11:57,825    all_metrics_5x   equity $ 1,270.43  exposure $   +2,217  no trade
+2026-11-28 10:11:57,825    trend_only_2x    equity $ 1,120.98  exposure $     +374  OPEN LONG
+2026-11-28 10:11:57,825    oscillators_2x   equity $ 1,001.26  exposure $       +0  no trade
+2026-11-28 10:11:57,825    volume_vol_2x    equity $   973.63  exposure $     +324  no trade
+2026-11-28 10:11:57,825    dist_ma20_2x     equity $   900.45  exposure $     +599  no trade
+2026-11-28 10:11:57,829 hour 2026-11-28 05:00 UTC  BTC $59,670
+2026-11-28 10:11:57,829    all_metrics_1x   equity $ 1,054.52  exposure $     +355  
+2026-11-28 10:11:57,829    all_metrics_2x   equity $ 1,108.11  exposure $     +754  
+2026-11-28 10:11:57,829    all_metrics_5x   equity $ 1,261.25  exposure $   +2,217  
+2026-11-28 10:11:57,829    trend_only_2x    equity $ 1,119.39  exposure $     +374  
+2026-11-28 10:11:57,829    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 10:11:57,829    volume_vol_2x    equity $   972.25  exposure $     +324  
+2026-11-28 10:11:57,829    dist_ma20_2x     equity $   897.90  exposure $     +599  
+2026-11-28 10:11:57,833 hour 2026-11-28 06:00 UTC  BTC $59,683
+2026-11-28 10:11:57,833    all_metrics_1x   equity $ 1,054.60  exposure $     +355  
+2026-11-28 10:11:57,833    all_metrics_2x   equity $ 1,108.27  exposure $     +754  
+2026-11-28 10:11:57,833    all_metrics_5x   equity $ 1,261.70  exposure $   +2,217  
+2026-11-28 10:11:57,833    trend_only_2x    equity $ 1,119.47  exposure $     +374  
+2026-11-28 10:11:57,833    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 10:11:57,833    volume_vol_2x    equity $   972.32  exposure $     +324  
+2026-11-28 10:11:57,833    dist_ma20_2x     equity $   898.03  exposure $     +599  
+2026-11-28 10:11:57,836 hour 2026-11-28 07:00 UTC  BTC $59,771
+2026-11-28 10:11:57,836    all_metrics_1x   equity $ 1,055.10  exposure $     +355  
+2026-11-28 10:11:57,836    all_metrics_2x   equity $ 1,109.34  exposure $     +754  
+2026-11-28 10:11:57,836    all_metrics_5x   equity $ 1,264.85  exposure $   +2,217  
+2026-11-28 10:11:57,836    trend_only_2x    equity $ 1,120.01  exposure $     +374  
+2026-11-28 10:11:57,836    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 10:11:57,837    volume_vol_2x    equity $   972.79  exposure $     +324  
+2026-11-28 10:11:57,837    dist_ma20_2x     equity $   898.90  exposure $     +599  
+2026-11-28 10:11:57,872 hour 2026-11-28 08:00 UTC  BTC $59,505
+2026-11-28 10:11:57,872    all_metrics_1x   equity $ 1,053.36  exposure $     +178  no trade
+2026-11-28 10:11:57,873    all_metrics_2x   equity $ 1,105.65  exposure $     +377  no trade
+2026-11-28 10:11:57,873    all_metrics_5x   equity $ 1,254.00  exposure $   +1,108  no trade
+2026-11-28 10:11:57,873    trend_only_2x    equity $ 1,118.29  exposure $     +746  OPEN LONG
+2026-11-28 10:11:57,873    oscillators_2x   equity $ 1,001.26  exposure $       +0  no trade
+2026-11-28 10:11:57,873    volume_vol_2x    equity $   971.36  exposure $     +324  no trade
+2026-11-28 10:11:57,873    dist_ma20_2x     equity $   896.24  exposure $     +599  no trade
+2026-11-28 10:11:57,876 hour 2026-11-28 09:00 UTC  BTC $59,526
+2026-11-28 10:11:57,876    all_metrics_1x   equity $ 1,053.42  exposure $     +178  
+2026-11-28 10:11:57,876    all_metrics_2x   equity $ 1,105.78  exposure $     +377  
+2026-11-28 10:11:57,876    all_metrics_5x   equity $ 1,254.38  exposure $   +1,108  
+2026-11-28 10:11:57,876    trend_only_2x    equity $ 1,118.55  exposure $     +746  
+2026-11-28 10:11:57,876    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 10:11:57,876    volume_vol_2x    equity $   971.47  exposure $     +324  
+2026-11-28 10:11:57,876    dist_ma20_2x     equity $   896.45  exposure $     +599  
+2026-11-28 18:50:31,384 paper trader started: 7 bots, BTC-USD
+2026-11-28 18:50:33,072 hour 2026-11-28 10:00 UTC  BTC $59,194
+2026-11-28 18:50:33,072    all_metrics_1x   equity $ 1,052.46  exposure $     +178  
+2026-11-28 18:50:33,072    all_metrics_2x   equity $ 1,103.74  exposure $     +377  
+2026-11-28 18:50:33,072    all_metrics_5x   equity $ 1,248.39  exposure $   +1,108  
+2026-11-28 18:50:33,072    trend_only_2x    equity $ 1,114.39  exposure $     +746  
+2026-11-28 18:50:33,073    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 18:50:33,073    volume_vol_2x    equity $   969.67  exposure $     +324  
+2026-11-28 18:50:33,073    dist_ma20_2x     equity $   893.12  exposure $     +599  
+2026-11-28 18:50:33,075 hour 2026-11-28 11:00 UTC  BTC $59,176
+2026-11-28 18:50:33,075    all_metrics_1x   equity $ 1,052.41  exposure $     +178  
+2026-11-28 18:50:33,075    all_metrics_2x   equity $ 1,103.63  exposure $     +377  
+2026-11-28 18:50:33,075    all_metrics_5x   equity $ 1,248.09  exposure $   +1,108  
+2026-11-28 18:50:33,075    trend_only_2x    equity $ 1,114.18  exposure $     +746  
+2026-11-28 18:50:33,075    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 18:50:33,075    volume_vol_2x    equity $   969.58  exposure $     +324  
+2026-11-28 18:50:33,075    dist_ma20_2x     equity $   892.95  exposure $     +599  
+2026-11-28 18:50:33,102 hour 2026-11-28 12:00 UTC  BTC $59,150
+2026-11-28 18:50:33,102    all_metrics_1x   equity $ 1,052.13  exposure $       +0  no trade
+2026-11-28 18:50:33,102    all_metrics_2x   equity $ 1,103.03  exposure $       +0  no trade
+2026-11-28 18:50:33,102    all_metrics_5x   equity $ 1,246.31  exposure $       +0  no trade
+2026-11-28 18:50:33,102    trend_only_2x    equity $ 1,113.77  exposure $   +1,118  OPEN LONG
+2026-11-28 18:50:33,102    oscillators_2x   equity $ 1,001.26  exposure $       +0  no trade
+2026-11-28 18:50:33,102    volume_vol_2x    equity $   969.43  exposure $     +324  no trade
+2026-11-28 18:50:33,102    dist_ma20_2x     equity $   892.68  exposure $     +599  no trade
+2026-11-28 18:50:33,105 hour 2026-11-28 13:00 UTC  BTC $59,044
+2026-11-28 18:50:33,105    all_metrics_1x   equity $ 1,052.13  exposure $       +0  
+2026-11-28 18:50:33,105    all_metrics_2x   equity $ 1,103.03  exposure $       +0  
+2026-11-28 18:50:33,105    all_metrics_5x   equity $ 1,246.31  exposure $       +0  
+2026-11-28 18:50:33,105    trend_only_2x    equity $ 1,111.78  exposure $   +1,118  
+2026-11-28 18:50:33,105    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 18:50:33,105    volume_vol_2x    equity $   968.86  exposure $     +324  
+2026-11-28 18:50:33,105    dist_ma20_2x     equity $   891.62  exposure $     +599  
+2026-11-28 18:50:33,107 hour 2026-11-28 14:00 UTC  BTC $59,263
+2026-11-28 18:50:33,107    all_metrics_1x   equity $ 1,052.13  exposure $       +0  
+2026-11-28 18:50:33,107    all_metrics_2x   equity $ 1,103.03  exposure $       +0  
+2026-11-28 18:50:33,107    all_metrics_5x   equity $ 1,246.31  exposure $       +0  
+2026-11-28 18:50:33,107    trend_only_2x    equity $ 1,115.90  exposure $   +1,118  
+2026-11-28 18:50:33,107    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 18:50:33,107    volume_vol_2x    equity $   970.05  exposure $     +324  
+2026-11-28 18:50:33,107    dist_ma20_2x     equity $   893.82  exposure $     +599  
+2026-11-28 18:50:33,110 hour 2026-11-28 15:00 UTC  BTC $59,446
+2026-11-28 18:50:33,110    all_metrics_1x   equity $ 1,052.13  exposure $       +0  
+2026-11-28 18:50:33,110    all_metrics_2x   equity $ 1,103.03  exposure $       +0  
+2026-11-28 18:50:33,110    all_metrics_5x   equity $ 1,246.31  exposure $       +0  
+2026-11-28 18:50:33,110    trend_only_2x    equity $ 1,119.34  exposure $   +1,118  
+2026-11-28 18:50:33,110    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 18:50:33,110    volume_vol_2x    equity $   971.04  exposure $     +324  
+2026-11-28 18:50:33,110    dist_ma20_2x     equity $   895.65  exposure $     +599  
+2026-11-28 18:50:33,136 hour 2026-11-28 16:00 UTC  BTC $59,532
+2026-11-28 18:50:33,136    all_metrics_1x   equity $ 1,052.13  exposure $       +0  no trade
+2026-11-28 18:50:33,136    all_metrics_2x   equity $ 1,103.03  exposure $       +0  no trade
+2026-11-28 18:50:33,136    all_metrics_5x   equity $ 1,246.31  exposure $       +0  no trade
+2026-11-28 18:50:33,136    trend_only_2x    equity $ 1,120.95  exposure $   +1,118  no trade
+2026-11-28 18:50:33,136    oscillators_2x   equity $ 1,001.26  exposure $       +0  no trade
+2026-11-28 18:50:33,136    volume_vol_2x    equity $   971.05  exposure $     -324  OPEN SHORT
+2026-11-28 18:50:33,136    dist_ma20_2x     equity $   896.15  exposure $     +300  no trade
+2026-11-28 18:50:33,138 hour 2026-11-28 17:00 UTC  BTC $59,343
+2026-11-28 18:50:33,138    all_metrics_1x   equity $ 1,052.13  exposure $       +0  
+2026-11-28 18:50:33,138    all_metrics_2x   equity $ 1,103.03  exposure $       +0  
+2026-11-28 18:50:33,138    all_metrics_5x   equity $ 1,246.31  exposure $       +0  
+2026-11-28 18:50:33,138    trend_only_2x    equity $ 1,117.39  exposure $   +1,118  
+2026-11-28 18:50:33,138    oscillators_2x   equity $ 1,001.26  exposure $       +0  
+2026-11-28 18:50:33,138    volume_vol_2x    equity $   972.08  exposure $     -324  
+2026-11-28 18:50:33,138    dist_ma20_2x     equity $   895.21  exposure $     +300  
